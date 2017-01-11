@@ -1013,7 +1013,7 @@
           },
           "title": "Solki.live",
           "text": "Ei ole toimialaa, jossa solki.live-palvelua ei voisi hyödyntää! Saat kaikki nämä työkalut yhden suomalaisen palvelun kautta. <br><br>Sinun ei tarvitse enää ladata erilaisia ohjelmistoja <br>ja turhautua niiden käytön opiskelusta. <br>Kirjaudut vain Solki.live-palveluun ja kaikki ominaisuudet ovat käytössäsi.<br><br>Sopiiko solki.live sinulle?&nbsp;<br>Lue esimerkkitapauksia ja nappaa ideat talteen alla olevasta linkistä!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/public/media/case_studies.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Esimerkkitapauksia</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Viikko ilmaiseksi -&gt;</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/public/media/case_studies.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Esimerkkitapauksia</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Ilmainen viikko!&nbsp;</a>  "
         },
         {
           "_inherit": "testimonials1",
