@@ -46,10 +46,13 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "36px"
             },
             ".btn": {
               "font-size": "17px"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
             }
           },
           "_anchor": "index-header4-0",
@@ -72,7 +75,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Hei, ammattilainen!<br> <br>Etsitkö helpompaa, joustavampaa ja kustannustehokkaampaa tapaa työskennellä?<br><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>All-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassasi!</span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "Hei, ammattilainen!<br> <br>Etsitkö helpompaa, joustavampaa ja kustannustehokkaampaa tapaa työskennellä?<br><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassasi!</span><span style=\"font-weight: normal;\"><br></span>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää ilmaiseksi!</a>    "
         },
@@ -879,6 +882,9 @@
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "17px"
+            },
+            ".mbr-price-value": {
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -941,12 +947,12 @@
           "label4": "HOT!",
           "title4": "Hinnoittelu:<br><br>(Ensimmäiset 7 päivää ovat maksuttomia!)",
           "subtitle4": "",
-          "currency4": "Kuukausimaksu 10€ + ALV 24% <br>+<br>käytön mukaan 0,01€/käyttäjä/minuutti&nbsp;",
+          "currency4": "Kuukausimaksu 10€ + ALV 24% <br>+<br>käytön mukaan <b>0.01€</b> / käyttäjä / minuutti<br><br>Esimerkkejä:<br>&nbsp;<br>Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 50 katsojaa <b>30€&nbsp;</b>/ tunti<br>",
           "price4": "",
           "period4": "",
-          "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>0,07€</b>/minuutti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,01€</b>/minuutti</span><br><span style=\"line-height: 1.79;\">videoiden säilytys verkkokaupassa <b>0,3€</b>/gigatavu</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br>",
+          "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br><span style=\"line-height: 1.79;\"><b>Laskutus todellisen käytön mukaan!</b></span><br>",
           "list4": "",
-          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/Hinnoittelu_maksut.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
+          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
         },
         {
           "_tags": [
@@ -1134,7 +1140,7 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "Käyttäjien kommentteja;",
+          "title": "Palautetta;",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {

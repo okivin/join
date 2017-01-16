@@ -422,10 +422,13 @@ h6,
   color: #ffffff;
 }
 #index-header4-0 .mbr-section-title {
-  font-size: 48px;
+  font-size: 36px;
 }
 #index-header4-0 .btn {
   font-size: 17px;
+}
+#index-header4-0 .mbr-section-title SPAN {
+  font-size: 36px;
 }
 #index-msg-box3-0 .mbr-section-title,
 #index-msg-box3-0 p {
@@ -580,6 +583,9 @@ h6,
   color: #000000;
   font-family: 'Montserrat', sans-serif;
   font-size: 17px;
+}
+#pricing-table2-d .mbr-price-value {
+  font-size: 25px;
 }
 #msg-box5-0 P {
   font-family: 'Montserrat', sans-serif;
