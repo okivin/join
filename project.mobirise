@@ -46,13 +46,13 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".btn": {
               "font-size": "17px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           },
           "_anchor": "index-header4-0",
@@ -68,7 +68,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.1",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -120,7 +120,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "solki.live<br>",
+          "title": "solki.live<br><br>",
           "text": "Onko sinulle ja asiakkaillesi tärkeää toimia yhdessä joustavasti, vaivattomasti ja vapaasti? Miltä kuulostaisi, jos voisit tavoittaa asiakkaasi ajasta tai paikasta riippumatta, ilman stressiä aikataulujen sovittamisen vaikeudesta ja palveluidesi myymisestä.<br><div><br></div><div>Paikkariippumattomuus ja verkon kautta toimiminen mahdollistavat sinulle&nbsp;</div><div>tehokkaan ajankäytön lisäksi keinon palvella useampia ihmisiä kustannustehokkaasti.</div><div><br></div><div>Oman työsi mahdollisuudet kasvavat solki.live-palvelun kautta.&nbsp;</div><div>Sinun ei enää tarvitse käyttää aikaa miettien mikä on mahdollista,&nbsp;</div><div>sillä nyt voit alkaa miettimään, miten voisit hyödyntää näitä kaikkia mahdollisuuksia,&nbsp;<span style=\"line-height: 1.5;\">joita solki.live-palvelu sinulle tarjoaa!</span></div>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -871,7 +871,7 @@
               "font-size": "14px"
             },
             ".mbr-plan-title": {
-              "font-size": "18px",
+              "font-size": "25px",
               "color": "#28262b"
             },
             ".mbr-price-figure": {
@@ -884,7 +884,14 @@
               "font-size": "17px"
             },
             ".mbr-price-value": {
-              "font-size": "25px"
+              "font-size": "23px"
+            },
+            "DIV": {
+              "color": "#000000",
+              "font-size": "23px"
+            },
+            ".mbr-plan-price-desc SPAN": {
+              "font-size": "23px"
             }
           },
           "_tags": [
@@ -912,7 +919,7 @@
             "firstType": "hidden",
             "showButtons": true,
             "secondType": "hidden",
-            "thirdType": "hidden",
+            "thirdType": "",
             "fourthType": ""
           },
           "title": "Solki.live on myös edullinen!",
@@ -936,23 +943,23 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
-          "title3": "PREMIUM",
-          "subtitle3": "Description",
-          "currency3": "$",
-          "price3": "0",
-          "period3": "/mo.",
-          "description3": "More details",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "title3": "Hinnoittelu:<br><br>Ensimmäiset 7 päivää ovat maksuttomia!",
+          "subtitle3": "",
+          "currency3": "<b>10€</b>/kk (+ ALV 24%) +",
+          "price3": "",
+          "period3": "",
+          "description3": "<span style=\"line-height: 1.79;\">Käytön mukaan <b>0.01€</b> / minuutti / käyttäjä</span><br><span style=\"line-height: 1.79;\">(laskutus todellisen käytön mukaan)</span><br><span style=\"line-height: 1.79;\"><br></span><br><span style=\"line-height: 1.79;\">Katso hinnoitteluesimerkkejä viereisestä taulukosta tai linkistä \"Hinnoitteluesimerkkejä\".</span><br>",
+          "list3": "Kokeile 7 päivää ilmaiseksi!",
+          "button3": "<a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>",
           "label4": "HOT!",
-          "title4": "Hinnoittelu:<br><br>(Ensimmäiset 7 päivää ovat maksuttomia!)",
+          "title4": "Hinnoitteluesimerkkejä:<br>",
           "subtitle4": "",
-          "currency4": "Kuukausimaksu 10€ + ALV 24% <br>+<br>käytön mukaan <b>0.01€</b> / käyttäjä / minuutti<br><br>Esimerkkejä:<br>&nbsp;<br>Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 50 katsojaa <b>30€&nbsp;</b>/ tunti<br>",
+          "currency4": "&nbsp;Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 50 katsojaa <b>30€&nbsp;</b>/ tunti<br>",
           "price4": "",
           "period4": "",
           "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br><span style=\"line-height: 1.79;\"><b>Laskutus todellisen käytön mukaan!</b></span><br>",
           "list4": "",
-          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
+          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Lisää esimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
         },
         {
           "_tags": [
@@ -1140,7 +1147,7 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "Palautetta;",
+          "title": "Palautetta",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
@@ -1148,6 +1155,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".btn": {
+              "font-size": "14px"
             }
           },
           "_tags": [
