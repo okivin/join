@@ -52,7 +52,7 @@
               "font-size": "19px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "19px"
+              "font-size": "25px"
             }
           },
           "_anchor": "index-header4-0",
@@ -70,7 +70,7 @@
             "overlay": true,
             "overlayOpacity": "0.2",
             "overlayColor": "#000000",
-            "contentAlign": "center",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
