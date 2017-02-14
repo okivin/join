@@ -49,10 +49,10 @@
               "font-size": "30px"
             },
             ".btn": {
-              "font-size": "17px"
+              "font-size": "19px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "30px"
+              "font-size": "19px"
             }
           },
           "_anchor": "index-header4-0",
