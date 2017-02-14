@@ -34,7 +34,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Solki.live - kohtaa asiakkaasi kasvotusten verkossa!",
+        "title": "Miksi lähtisit työpaikallesi, kun sinulla on mukanasi kulkeva digitoimisto? Monipuoliset liveyhteydet sekä verkkokauppa, alkaen 10€/kk!",
         "meta_descr": "Monipuolisten liveyhteyksien avulla tavoitat asiakkaasi ajasta tai paikasta riippumatta. Voit myös myydä osaamistasi omassa verkkokaupassasi!",
         "header_custom": "",
         "footer_custom": "",
@@ -60,7 +60,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/515193405-2000x1334-27.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/spm-edf3b5d3-62b7-43e3-bb33-51f277679667-2000x1333-32.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -68,14 +68,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.2",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "Hei, ammattilainen!<br> <br>Etsitkö helpompaa, joustavampaa ja kustannustehokkaampaa tapaa työskennellä?<br><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassasi!</span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<span style=\"line-height: 1.1;\"><span style=\"font-weight: normal;\">Haluatko auttaa asiakkaitasi? Niin minäkin, siksi perustin solki.live -sivuston.</span>&nbsp;</span><br><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassasi!</span><span style=\"font-weight: normal;\"><br></span>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää ilmaiseksi!</a>    "
         },
@@ -954,7 +954,7 @@
           "label4": "HOT!",
           "title4": "Hinnoitteluesimerkkejä:<br>",
           "subtitle4": "",
-          "currency4": "&nbsp;Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 50 katsojaa <b>30€&nbsp;</b>/ tunti<br>",
+          "currency4": "&nbsp;Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 30 katsojaa <b>18€&nbsp;</b>/ tunti<br>",
           "price4": "",
           "period4": "",
           "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br><span style=\"line-height: 1.79;\"><b>Laskutus todellisen käytön mukaan!</b></span><br>",
