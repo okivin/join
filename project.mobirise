@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Miksi lähtisit työpaikallesi, kun sinulla on mukanasi kulkeva digitoimisto? Monipuoliset liveyhteydet sekä verkkokauppa, alkaen 10€/kk!",
-        "meta_descr": "Monipuolisten liveyhteyksien avulla tavoitat asiakkaasi ajasta tai paikasta riippumatta. Voit myös myydä osaamistasi omassa verkkokaupassasi!",
+        "title": "Webinaarit + muut liveyhteydet sekä verkkokauppa, alkaen 10€/kk!",
+        "meta_descr": "Monipuolisten liveyhteyksien avulla tavoitat asiakkaasi ajasta tai paikasta riippumatta. Voit myös myydä osaamistasi omassa verkkokaupassa!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -46,7 +46,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".btn": {
               "font-size": "19px"
@@ -60,7 +60,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/spm-edf3b5d3-62b7-43e3-bb33-51f277679667-2000x1333-32.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1441109296207-fd911f7cd5e5-2000x1298-91.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -68,14 +68,14 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "<span style=\"line-height: 1.1;\"><span style=\"font-weight: normal;\">Haluatko auttaa asiakkaitasi? </span></span><br><span style=\"line-height: 1.1;\"><span style=\"font-weight: normal;\">Niin minäkin, siksi perustin solki.live -sivuston.</span>&nbsp;</span><br><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassasi!</span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<span style=\"font-weight: normal;\">- Jaa osaamistasi, tiedota ja kouluta -</span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">Ovatko webinaariohjelmistot ja muut live-palveluja tarjoavat ohjelmat sinulle hankalia? Tarpeesi olisi ehkä järjestää satunnaisesti webinaareja tai asiakastapaamisia verkossa, mutta ohjelmistot ovat liian kalliita? Näiden lisäksi haluaisit oman verkkokaupan?<br></span><br><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten liveyhteyksien avulla ja myy osaamistasi omassa verkkokaupassa, alkaen 10€/kuukausi!</span><span style=\"font-weight: normal;\"><br></span>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää ilmaiseksi!</a>    "
         },
@@ -292,7 +292,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "sites",
+              "name": "edit",
               "family": "MobiriseIcons",
               "active": true,
               "link": "",
@@ -326,8 +326,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "happy",
-              "family": "et-line",
+              "name": "video-play",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -591,8 +591,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features7",
               "linkInNewWindow": false,
-              "name": "newspaper",
-              "family": "et-line",
+              "name": "sites",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "",
               "size": 0,
@@ -957,9 +957,9 @@
           "currency4": "&nbsp;Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 30 katsojaa <b>18€&nbsp;</b>/ tunti<br>",
           "price4": "",
           "period4": "",
-          "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br><span style=\"line-height: 1.79;\"><b>Laskutus todellisen käytön mukaan!</b></span><br>",
-          "list4": "",
-          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Lisää esimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
+          "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br>",
+          "list4": "Laskutus todellisen käytön mukaan!",
+          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
         },
         {
           "_tags": [
@@ -1006,7 +1006,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1444653614773-995cb1ef9efa-1400x927-29.jpg",
+              "src": "@PROJECT_PATH@/assets/images/solkibg-1400x933-74.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1025,7 +1025,7 @@
             }
           },
           "title": "Solki.live",
-          "text": "Ei ole toimialaa, jossa solki.live-palvelua ei voisi hyödyntää! Saat kaikki nämä työkalut yhden suomalaisen palvelun kautta. <br><br>Sinun ei tarvitse enää ladata erilaisia ohjelmistoja <br>ja turhautua niiden käytön opiskelusta. <br>Kirjaudut vain Solki.live-palveluun ja kaikki ominaisuudet ovat käytössäsi.<br><br>Sopiiko solki.live sinulle?&nbsp;<br>Lue esimerkkitapauksia ja nappaa ideat talteen alla olevasta linkistä!",
+          "text": "Ei ole toimialaa, jossa solki.live-palvelua ei voisi hyödyntää! Saat kaikki nämä työkalut yhden kotimaisen palvelun kautta. <br><br>Sinun ei tarvitse enää ladata erilaisia ohjelmistoja <br>ja turhautua niiden käytön opiskelusta. <br>Kirjaudut vain Solki.live-palveluun ja kaikki ominaisuudet ovat käytössäsi.<br><br>Sopiiko solki.live sinulle?&nbsp;<br>Lue esimerkkitapauksia ja nappaa ideat talteen alla olevasta linkistä!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/public/media/case_studies.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Esimerkkitapauksia</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-cursor-click mbr-iconfont mbr-iconfont-btn\"></span>Ilmainen viikko!&nbsp;</a>  "
         },
         {
