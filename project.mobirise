@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "3.10.4",
-    "name": "index.html",
+    "name": "NewSite-02-02_1244",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "uniqCompNum": 19,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///C:/Users/Olppa/Desktop",
     "screenshot": "screenshot.png",
     "google-analytics": ""
   },
@@ -1229,7 +1229,7 @@
           },
           "text1": "<strong>Yritys</strong><br>Sportie United Oy<br>263929-4",
           "text2": "<strong>Yhteys</strong><br>\nEmail: olli.kivin@sportietown.com<br>\nPuhelin: +358 50 327 1088<br><br>",
-          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\">Varaa<i> </i>livekeskustelu</a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, hinnoittelu, ohjeet</a><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"></a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook.me\" target=\"_blank\">Varaa<i> </i>livekeskustelu</a><a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\"></a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, hinnoittelu, ohjeet</a><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"></a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }
