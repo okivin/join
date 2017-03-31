@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Webinaarit + muut liveyhteydet sekä verkkokauppa, alkaen 10€/kk!",
-        "meta_descr": "Monipuoliset videoyhteydet ja verkkokauppa alkaen 10€/kuukausi! livevideo, videoneuvottelu, webinaari, verkkokauppa, verkkoneuvottelu, tiedota, kouluta, ammattilainen, myy osaamista, myy videoita",
+        "title": "Verkkokauppa, webinaarit, videoneuvottelut ja ryhmäkoulutukset alkaen 10€/kk.",
+        "meta_descr": "Monipuoliset videoyhteydet, kuten videoneuvottelu, ryhmäkoulutus, webinaari ja oma verkkokauppa alkaen 10€/kk. Ammattilainen, myy osaamistasi verkossa helposti, nopeasti ja kustannustehokkaasti solki.live-palvelun avulla.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -53,7 +53,10 @@
               "font-size": "19px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "24px"
+              "font-size": "25px"
+            },
+            ".mbr-section-title I": {
+              "font-size": "30px"
             }
           },
           "_anchor": "index-header4-0",
