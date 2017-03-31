@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Verkkokauppa, webinaarit, videoneuvottelut ja ryhmäkoulutukset alkaen 10€/kk.",
-        "meta_descr": "Monipuoliset videoyhteydet, kuten videoneuvottelu, ryhmäkoulutus, webinaari ja oma verkkokauppa alkaen 10€/kk. Ammattilainen, myy osaamistasi verkossa helposti, nopeasti ja kustannustehokkaasti solki.live-palvelun avulla.",
+        "title": "Verkkokauppa, verkkokurssit, webinaarit, videoneuvottelut ja ryhmäkoulutukset alkaen 10€/kk.",
+        "meta_descr": "Monipuoliset videoyhteydet, kuten videoneuvottelu, ryhmäkoulutus, webinaari ja oma verkkokauppa alkaen 10€/kk. Ammattilainen, myy osaamistasi verkkokursseilla helposti, nopeasti ja kustannustehokkaasti solki.live-palvelun avulla.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
