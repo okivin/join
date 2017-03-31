@@ -10,7 +10,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -428,22 +427,11 @@ h6,
   font-size: 19px;
 }
 #index-header4-0 .mbr-section-title SPAN {
-  font-size: 19px;
+  font-size: 24px;
 }
-#index-msg-box3-0 .mbr-section-title,
-#index-msg-box3-0 p {
-  color: #000;
-}
-#index-msg-box3-0 .lead P {
-  font-size: 21px;
-}
-#index-msg-box3-0 .lead DIV {
+#content1-j P {
   font-family: 'Montserrat', sans-serif;
-  font-size: 19px;
-}
-#index-msg-box3-0 .lead {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 19px;
+  text-align: center;
 }
 #index-ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
