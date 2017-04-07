@@ -24,7 +24,7 @@
       }
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 37,
+    "uniqCompNum": 56,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -35,8 +35,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Verkkokauppa, verkkokurssit, webinaarit, videoneuvottelut ja ryhmäkoulutukset alkaen 10€/kk.",
-        "meta_descr": "Monipuoliset videoyhteydet, kuten videoneuvottelu, ryhmäkoulutus, webinaari ja oma verkkokauppa alkaen 10€/kk. Ammattilainen, myy osaamistasi verkkokursseilla helposti, nopeasti ja kustannustehokkaasti solki.live-palvelun avulla.",
+        "title": "Solki.live - Verkkokauppa, verkkokurssit, webinaarit, videoneuvottelut ja ryhmäkoulutukset alkaen 10€/kk. Kokeile 7 päivää ilmaiseksi!",
+        "meta_descr": "Solki.live = Monipuoliset videoyhteydet, kuten videoneuvottelu, ryhmäkoulutus, webinaari ja oma verkkokauppa, alkaen 10€/kk. Ammattilainen, myy osaamistasi verkkokursseilla helposti, nopeasti ja kustannustehokkaasti solki.live-palvelun avulla. Kokeile 7 päivää ilmaiseksi!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -930,8 +930,8 @@
           "price3": "",
           "period3": "",
           "description3": "<span style=\"line-height: 1.79;\">Käytön mukaan <b>0.01€</b> / minuutti / käyttäjä</span><br><span style=\"line-height: 1.79;\">(laskutus todellisen käytön mukaan)</span><br><span style=\"line-height: 1.79;\"><br></span><br><span style=\"line-height: 1.79;\">Katso hinnoitteluesimerkkejä viereisestä taulukosta tai linkistä \"Hinnoitteluesimerkkejä\".</span><br>",
-          "list3": "Kokeile 7 päivää ilmaiseksi!",
-          "button3": "<a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>",
+          "list3": "<a href=\"https://solki.live/instructorregister\" class=\"text-black\">Kokeile 7 päivää ilmaiseksi!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> ",
           "label4": "HOT!",
           "title4": "Hinnoitteluesimerkkejä:<br>",
           "subtitle4": "",
