@@ -609,13 +609,20 @@ h6,
 #msg-box3-e .btn {
   font-size: 14px;
 }
+#social-buttons3-1n .mbr-section-title,
+#social-buttons3-1n .btn-social {
+  color: #fff;
+}
+#social-buttons3-1n .mbr-section-title {
+  font-size: 25px;
+}
 #social-buttons2-1l .mbr-section-title,
 #social-buttons2-1l .btn-social {
   color: #232323;
 }
 #social-buttons2-1l .mbr-section-title {
   color: #ffffff;
-  font-size: 21px;
+  font-size: 25px;
 }
 #contacts1-f STRONG {
   color: #ffffff;
