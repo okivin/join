@@ -79,7 +79,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "<i>Jaa osaamistasi, tiedota ja kouluta</i><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Tavoita asiakkaat monipuolisten videoyhteyksien, kuten videoneuvottelun, ryhmäkoulutuksen tai webinaarin avulla ja myy videoita omassa verkkokaupassasi, alkaen 10€/kuukausi!</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span>",
+          "title": "<span style=\"font-weight: normal;\"><span style=\"font-size: 30px; line-height: 22px;\"><i>Ammattilainen; Lisää laskutettavaa?</i></span><br></span><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Myy osaamistasi verkossa ja tavoita asiakkaat monipuolisten videoyhteyksien, kuten videoneuvottelun, ryhmäkoulutuksen tai webinaarin avulla. Voit myös tallentaa kaiken ja myydä materiaalia omassa verkkokaupassasi. Alkaen 10€/kuukausi!</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää ilmaiseksi!</a>    "
         },
