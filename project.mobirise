@@ -81,7 +81,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><span style=\"font-size: 30px; line-height: 22px;\"><i>Ammattilainen; Lisää laskutettavaa?</i></span><br></span><span style=\"font-weight: normal;\"><br>Solki.live on </span>all-in-one<span style=\"font-weight: normal;\"> -ratkaisu liiketoimintaasi verkossa. Myy osaamistasi verkossa ja tavoita asiakkaat monipuolisten videoyhteyksien, kuten videoneuvottelun, ryhmäkoulutuksen tai webinaarin avulla. Voit myös tallentaa kaiken ja myydä materiaalia omassa verkkokaupassasi. Alkaen 10€/kuukausi!</span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br></span>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää ilmaiseksi!</a>    "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 14 päivää ilmaiseksi!</a>    "
         },
         {
           "_tags": [
@@ -464,7 +464,7 @@
           },
           "title3": "Webinaarit",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Tapaa jopa tuhat potentiaalista asiakasta samalla kertaa webinaarissa!",
+          "caption3": "Tavoita vaikka yli tuhat potentiaalista asiakasta samalla kertaa webinaarissa! Osallistujamäärää ei ole rajoitettu.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -694,7 +694,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "<p>Solki.live on helpoin, nopein ja kustannustehokkain!<br><a href=\"https://solki.live/instructorregister\" class=\"text-info\">Klikkaa tästä ja kokeile 7 päivää maksutta!</a><i></i></p>",
+          "title": "<p>Solki.live on helpoin, nopein ja kustannustehokkain!<br><a href=\"https://solki.live/instructorregister\" class=\"text-info\">Klikkaa tästä ja kokeile 14 päivää maksutta!</a><i></i></p>",
           "meta": ""
         },
         {
@@ -926,13 +926,13 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
           "label3": "HOT!",
-          "title3": "Hinnoittelu:<br><br>Ensimmäiset 7 päivää ovat maksuttomia!",
+          "title3": "Hinnoittelu:<br><br>Ensimmäiset 14 päivää ovat maksuttomia!",
           "subtitle3": "",
           "currency3": "<b>10€</b>/kk (+ ALV 24%) +",
           "price3": "",
           "period3": "",
           "description3": "<span style=\"line-height: 1.79;\">Käytön mukaan <b>0.01€</b> / minuutti / käyttäjä</span><br><span style=\"line-height: 1.79;\">(laskutus todellisen käytön mukaan)</span><br><span style=\"line-height: 1.79;\"><br></span><br><span style=\"line-height: 1.79;\">Katso hinnoitteluesimerkkejä viereisestä taulukosta tai linkistä \"Hinnoitteluesimerkkejä\".</span><br>",
-          "list3": "<a href=\"https://solki.live/instructorregister\" class=\"text-black\">Kokeile 7 päivää ilmaiseksi!</a>",
+          "list3": "<a href=\"https://solki.live/instructorregister\" class=\"text-black\">Kokeile 14 päivää ilmaiseksi!</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> ",
           "label4": "HOT!",
           "title4": "Hinnoitteluesimerkkejä:<br>",
@@ -940,9 +940,9 @@
           "currency4": "&nbsp;Kahdenkeskinen live&nbsp;<b>1.2€&nbsp;</b>/ tunti<br>Ryhmä-live, 6 osallistujaa&nbsp;<b>18€&nbsp;</b>/ tunti<br>Webinaari, 30 katsojaa <b>18€&nbsp;</b>/ tunti<br>",
           "price4": "",
           "period4": "",
-          "description4": "<span style=\"line-height: 1.79;\">Lisäominaisuudet:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br>",
+          "description4": "<span style=\"line-height: 1.79;\">Ekstrat:</span><br><span style=\"line-height: 1.79;\">tallennus <b>4.2€</b>/tunti</span><br><span style=\"line-height: 1.79;\">oman näytön jakaminen <b>0,6€</b>/tunti</span><br><span style=\"line-height: 1.79;\">videoiden myynti verkkokaupassa <b>1€</b>/video</span><br><span style=\"line-height: 1.79;\">transaktiomaksu <b>7,5%</b></span><br>",
           "list4": "Laskutus todellisen käytön mukaan!",
-          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
+          "button4": "  <a data-app-btn=\"true\" href=\"https://solki.live/public/media/hinnoittelu.pdf\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Hinnoitteluesimerkkejä</a> <a data-app-btn=\"true\" href=\"https://solki.live/instructorregister\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Kokeile 14 päivää maksutta!</a>"
         },
         {
           "_tags": [
@@ -1169,7 +1169,7 @@
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
           "text": "<p>Solki.live toimii suoraan selaimessasi, et tarvitse erillisiä ohjelmistolatauksia tai -asennuksia. Solki.live on perustettu nimenomaan ammattilaisen (SINUN) ja asiakkaan väliseen tietoturvalliseen kanssakäymiseen verkon välityksellä. Voit hoitaa liiketoimintaasi (neuvottelut, koulutukset ja tiedotukset) samalla tavalla kuin toimistollasi, mutta paljon helpommin, nopeammin ja kustannustehokkaammin livevideon välityksellä!</p><p>Voit varata lyhyen ja maksuttoman live-keskustelun kanssani, mietitään yhdessä miten voit ottaa kaiken hyödyn irti solki.live -palvelusta!</p><p><b>Kokeile 100% riskittömästi - voit lopettaa tilauksesi milloin haluat.</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://opkivin.youcanbook.me\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Varaa maksuton livekeskustelu</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 7 päivää maksutta!</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://opkivin.youcanbook.me\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Varaa maksuton livekeskustelu</a> <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/instructorregister\" data-toolbar=\"-mbrBtnMove\">Kokeile 14 päivää maksutta!</a>"
         },
         {
           "_inherit": "social-buttons1",
