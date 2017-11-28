@@ -573,7 +573,7 @@ h6,
 #pricing-table2-d .mbr-plan-price-desc {
   color: #000000;
   font-family: 'Montserrat', sans-serif;
-  font-size: 17px;
+  font-size: 19px;
 }
 #pricing-table2-d .mbr-price-value {
   font-size: 23px;
@@ -609,14 +609,6 @@ h6,
 #msg-box3-e .btn {
   font-size: 14px;
 }
-#social-buttons3-1n .mbr-section-title,
-#social-buttons3-1n .btn-social {
-  color: #fff;
-}
-#social-buttons3-1n .mbr-section-title {
-  font-size: 25px;
-  color: #ffffff;
-}
 #social-buttons2-1l .mbr-section-title,
 #social-buttons2-1l .btn-social {
   color: #232323;
@@ -624,6 +616,15 @@ h6,
 #social-buttons2-1l .mbr-section-title {
   color: #ffffff;
   font-size: 25px;
+}
+#form2-14 .mbr-section-title {
+  color: #fff;
+}
+#form2-14 .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form1-15 .form-control-label {
+  color: #232323;
 }
 #contacts1-f STRONG {
   color: #ffffff;
