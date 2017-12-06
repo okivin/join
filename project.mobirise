@@ -73,11 +73,12 @@
           "_anchor": "header1-1a",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "25px"
             },
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "22px"
             }
           }
         },
