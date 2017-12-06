@@ -73,7 +73,7 @@
           "_anchor": "header1-1a",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "30px"
             },
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
