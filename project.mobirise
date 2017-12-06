@@ -166,7 +166,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features4",
               "linkInNewWindow": false,
-              "name": "protect",
+              "name": "lock",
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
