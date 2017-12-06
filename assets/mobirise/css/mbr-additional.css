@@ -9,7 +9,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -420,21 +419,32 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
-#index-header4-0 .mbr-section-title {
-  font-size: 25px;
+#header1-1a .mbr-section-title {
+  font-size: 36px;
 }
-#index-header4-0 .btn {
-  font-size: 19px;
-}
-#index-header4-0 .mbr-section-title SPAN {
-  font-size: 25px;
-}
-#index-header4-0 .mbr-section-title I {
-  font-size: 30px;
+#header1-1a .mbr-section-lead {
+  font-family: 'Montserrat', sans-serif;
 }
 #content1-j P {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
+}
+#content1-j DIV {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#features4-1d .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-1d .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#form1-1b .form-control-label {
+  color: #232323;
+}
+#form1-1b SMALL {
+  font-family: 'Montserrat', sans-serif;
 }
 #index-ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -510,21 +520,6 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#header3-9 .mbr-section-title,
-#header3-9 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-b .mbr-section-title,
-#header3-b .mbr-section-subtitle {
-  text-align: center;
-}
-#features7-1 .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-1 .iconbox {
-  background-color: #00a885;
-  border-color: #00a885;
-}
 #header3-c .mbr-section-title,
 #header3-c .mbr-section-subtitle {
   text-align: center;
@@ -532,69 +527,6 @@ h6,
 #header3-c I {
   color: #00a885;
   font-size: 20px;
-}
-#pricing-table2-d .mbr-plan-header,
-#pricing-table2-d .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-d ul,
-#pricing-table2-d .mbr-plan-title,
-#pricing-table2-d .mbr-price-value,
-#pricing-table2-d .mbr-price-figure,
-#pricing-table2-d .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-d .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-d .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-d .mbr-plan-price-desc B {
-  color: #000000;
-  font-size: 20px;
-  font-family: 'Montserrat', sans-serif;
-}
-#pricing-table2-d UL {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
-}
-#pricing-table2-d .btn {
-  font-size: 14px;
-}
-#pricing-table2-d .mbr-plan-title {
-  font-size: 25px;
-  color: #28262b;
-}
-#pricing-table2-d .mbr-price-figure {
-  font-size: 20px;
-}
-#pricing-table2-d .mbr-plan-price-desc {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 19px;
-}
-#pricing-table2-d .mbr-price-value {
-  font-size: 23px;
-}
-#pricing-table2-d DIV {
-  color: #000000;
-  font-size: 23px;
-}
-#pricing-table2-d .mbr-plan-price-desc SPAN {
-  font-size: 23px;
-}
-#msg-box5-0 P {
-  font-family: 'Montserrat', sans-serif;
-  text-align: left;
-}
-#msg-box5-0 H3 {
-  color: #ffffff;
-  text-align: left;
-}
-#msg-box5-0 .btn {
-  font-size: 14px;
 }
 #testimonials3-h .mbr-section-title {
   color: #efefef;
@@ -608,14 +540,6 @@ h6,
 }
 #msg-box3-e .btn {
   font-size: 14px;
-}
-#social-buttons2-1l .mbr-section-title,
-#social-buttons2-1l .btn-social {
-  color: #232323;
-}
-#social-buttons2-1l .mbr-section-title {
-  color: #ffffff;
-  font-size: 25px;
 }
 #contacts1-f STRONG {
   color: #ffffff;
