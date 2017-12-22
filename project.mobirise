@@ -65,7 +65,7 @@
           },
           "title": "Kun asiakkaan tapaaminen ei onnistu<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille<br><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin ovesta sisään kävely.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI TAMMIKUUSSA</a>",
           "_tags": [
             "Theme"
           ],
@@ -867,7 +867,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
-          "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa asiakasta suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme.&nbsp;</p><p><b>Kokeile 100% riskittömästi</b></p>",
+          "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa asiakasta suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme.</p><p>Jätä vain yhteystietosi, niin otan sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
           "button": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
         },
         {
