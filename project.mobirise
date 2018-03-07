@@ -23,7 +23,9 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#28262b"
+        "#28262b",
+        "#68b0d6",
+        "#424648"
       ]
     },
     "scrollAnimation": "true",
@@ -941,6 +943,12 @@
             },
             ".mbr-section__container .mbr-section-title": {
               "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -957,7 +965,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#424648",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1003,9 +1011,9 @@
           "period2": "€/kk.",
           "period3": "€/kk.",
           "period4": "€/kk.",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">20 katsojaa, 30min = 9€</li><li class=\"list-group-item\">100 katsojaa, 60 min = 72€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">20 katsojaa, 30min=9€</li><li class=\"list-group-item\">100 katsojaa, 60 min=72€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1,50€/tunti</li><li class=\"list-group-item\">15€/10 tuntia</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 osallistujaa, 30min = 9€</li><li class=\"list-group-item\">10 osallistujaa, 60min=54€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 osallistujaa, 30min=9€</li><li class=\"list-group-item\">10 osallistujaa, 60min=54€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Jos et tarvitse, et maksa</li><li class=\"list-group-item\">Myy videot ja tallenteet</li><li class=\"list-group-item\">Julkiset/yksityiset videot</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen video)</li></ul>",
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1s"
