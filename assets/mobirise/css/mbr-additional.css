@@ -447,6 +447,13 @@ h6,
 #form1-1b SMALL {
   font-family: 'Montserrat', sans-serif;
 }
+#msg-box3-e .mbr-section-title,
+#msg-box3-e p {
+  color: #000;
+}
+#msg-box3-e .btn {
+  font-size: 14px;
+}
 #index-ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -534,13 +541,6 @@ h6,
 }
 #testimonials3-h .mbr-author-name {
   color: #ccc;
-}
-#msg-box3-e .mbr-section-title,
-#msg-box3-e p {
-  color: #000;
-}
-#msg-box3-e .btn {
-  font-size: 14px;
 }
 #contacts1-f STRONG {
   color: #ffffff;
