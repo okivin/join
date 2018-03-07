@@ -542,6 +542,23 @@ h6,
 #testimonials3-h .mbr-author-name {
   color: #ccc;
 }
+#pricing-table2-1q .mbr-plan-header,
+#pricing-table2-1q .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-1q ul,
+#pricing-table2-1q .mbr-plan-title,
+#pricing-table2-1q .mbr-price-value,
+#pricing-table2-1q .mbr-price-figure,
+#pricing-table2-1q .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-1q .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-1q .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
 #contacts1-f STRONG {
   color: #ffffff;
 }
