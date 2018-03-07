@@ -22,10 +22,12 @@
         "isScrollToTopButton": true,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#28262b"
+      ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -278,7 +280,7 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Mikä ajankohta sinulle sopisi parhaiten?"
+                "customTitle": "Mikä ajankohta sinulle sopisi parhaiten? Voit myös esittää muita palveluun liittyviä kysymyksiä tämän lomakkeen kautta."
               }
             }
           },
@@ -439,7 +441,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">Kokeile ilmaiseksi!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">IN ENGLISH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"true\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-1b\">Kokeile ilmaiseksi!</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">Hinnoittelu</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">IN ENGLISH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"true\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -913,6 +915,99 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            ".mbr-price-term": {
+              "color": "#000000",
+              "font-size": "30px"
+            },
+            ".mbr-price-figure": {
+              "font-size": "60px"
+            },
+            "UL": {
+              "color": "#28262b"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "Maksat vain käytöstä",
+          "description2": "Maksat vain käytöstä",
+          "description3": "Maksat vain käytöstä",
+          "description4": "Laskutetaan 3kk jaksoissa",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kysy hinnoittelusta</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kysy hinnoittelusta</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kysy hinnoittelusta</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Kysy hinnoittelusta</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Hinnoitteluesimerkkejä",
+          "subtitle": "Maksat vain käytöstä - <b>MUISTA että SINÄ voit laskuttaa asiakasta suoraan solki.livessä!</b>",
+          "title1": "Webinaarit",
+          "title2": "Kahden kesken",
+          "title3": "Online-ryhmät",
+          "title4": "Verkkokauppa",
+          "subtitle1": "Max 5000 katsojaa",
+          "subtitle2": "Sinä ja asiakkaasi",
+          "subtitle3": "Sinä + 24 osallistujaa",
+          "subtitle4": "JOS haluat myydä videoita",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "",
+          "currency2": "",
+          "currency3": "",
+          "currency4": "",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "10",
+          "period1": "€/kk.",
+          "period2": "€/kk.",
+          "period3": "€/kk.",
+          "period4": "€/kk.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">20 katsojaa, 30min = 9€</li><li class=\"list-group-item\">100 katsojaa, 60 min = 72€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1,50€/tunti</li><li class=\"list-group-item\">15€/10 tuntia</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 osallistujaa, 30min = 9€</li><li class=\"list-group-item\">10 osallistujaa, 60min=54€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Jos et tarvitse, et maksa</li><li class=\"list-group-item\">Myy videot ja tallenteet</li><li class=\"list-group-item\">Julkiset/yksityiset videot</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen video)</li></ul>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-1s"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -953,7 +1048,7 @@
           },
           "text1": "<strong>Yritys</strong><br>Y-tunnus: 263929-4",
           "text2": "<strong>Yhteys</strong><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPuhelin: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
-          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook.me\" target=\"_blank\"></a><a href=\"index.html#form1-1b\" target=\"_blank\">Varaa</a><i><a href=\"index.html#form1-1b\" target=\"_blank\"> </a></i><a href=\"index.html#form1-1b\" target=\"_blank\">livekeskustelu</a><a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\"></a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, hinnoittelu, video-ohjeet</a><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"></a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook.me\" target=\"_blank\"></a><a href=\"index.html#form1-1b\" target=\"_blank\">Varaa</a><i><a href=\"index.html#form1-1b\" target=\"_blank\"> </a></i><a href=\"index.html#form1-1b\" target=\"_blank\">livekeskustelu</a><a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\"></a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"></a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }
