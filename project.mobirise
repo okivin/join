@@ -938,6 +938,9 @@
             },
             "UL": {
               "color": "#28262b"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -954,7 +957,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"

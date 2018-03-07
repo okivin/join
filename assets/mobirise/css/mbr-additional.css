@@ -569,6 +569,9 @@ h6,
 #pricing-table2-1s UL {
   color: #28262b;
 }
+#pricing-table2-1s .mbr-section__container .mbr-section-title {
+  color: #ffffff;
+}
 #contacts1-f STRONG {
   color: #ffffff;
 }
