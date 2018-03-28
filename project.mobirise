@@ -260,7 +260,7 @@
           },
           "title": "Haluan henkilökohtaisen esittelyn!&nbsp;<br>",
           "subtitle": "Saat esittelyn jälkeen ilmaiset testitunnukset.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä yhteystiedot</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä</a>",
           "form": {
             "action": "olli.kivin@gmail.com",
             "alerts": {
