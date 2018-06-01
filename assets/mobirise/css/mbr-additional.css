@@ -426,6 +426,10 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
 }
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
 #content1-j P {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
