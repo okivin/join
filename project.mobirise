@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.7.7",
     "name": "saken kanssa tehty",
@@ -1067,7 +1067,7 @@
             {
               "authorName": "John Smith",
               "authorBio": "Developer",
-              "text": "<p>“Tämä on avannut ihan uusia mahdollisuuksia myydä osaamistani verkossa.”</p>",
+              "text": "<p>“Tämä on avannut ihan uusia mahdollisuuksia myydä osaamistani verkossa.” <a href=\"page1.html\">Tilitoimisto Finansia</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
