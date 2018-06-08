@@ -1428,10 +1428,10 @@
             },
             ".lead P": {
               "font-size": "20px",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_params": {
