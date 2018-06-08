@@ -1427,10 +1427,11 @@
               "font-size": "20px"
             },
             ".lead P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#000000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
