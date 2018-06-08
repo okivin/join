@@ -31,7 +31,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 90,
+    "uniqCompNum": 92,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -1468,12 +1468,60 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p><b>Tilitoimisto Finansia Ky \n</b></p><p>\n</p><p>Tilitoimisto Finansia Ky pitää webinaareja solki.live-palvelussa noin kerran kuukaudessa. Kohderyhminä ovat tilitoimistot ja yritykset, aiheina mm. paljon puhuttanut GDPR, osakeyhtiö ja muut yritysmuodot, yrittäjille suunnattu kirjanpidon raportin selvennystä ja paljon muita. \n</p><p><br></p><p>- Pidettyäni webinaarin pyynnöstä Suomen yrittäjille mietin, että näitähän voisi alkaa pitämään itsekin. Olen kouluttanut paljon livenä, mutta webinaarit palvelevat parhaiten sellaisia koulutuksia, jotka eivät ole koko päivän kestäviä ja osallistujia olisi ympäri Suomen. Webinaarit ovat käteviä osallistujalle sekä järjestäjälle, ne kun eivät vaadi matkustusta ja niitä voi järjestää vaikka omalta toimistolta, kertoo Finansian yrittäjä Riikka Lehtinen.\n</p><p><br></p><p>Riikka valitsi solki.liven yhdessä miehensä kanssa. Päätös alustasta oli helppo, valintakriteereiksi nousivat kotimaisuus, helppokäyttöisyys ja joustava hinnoittelu.\n</p><p><br></p><p>Webinaarit ja solki.live-palvelussa oleva tallenteiden verkkokauppa mahdollistaa myynnin kasvun muun liiketoiminnan taustalla. Riikan tallenteita on myyty runsaasti, viimeisintä noin 100 kertaa. Webinaaritallenteiden hinnat vaihtelevat alle 100€ suuruisissa summissa.\n</p><p>- Tallenteilla ja webinaareilla on ollut huomattava merkitys kuukausimyyntiimme. Teen yksin tilitoimistotöitä, ja kuukausitasolla liikevaihtomme on lisääntynyt tallenteiden ja webinaarien avulla jopa 1/3, Riikka kehuu innoissaan.\n</p><p><br></p><p>Webinaarien pidossa voi myös pitää vaikka kesälomaa, sillä joustava hinnoittelumme mahdollistaa lyhytaikaisen ja epäsäännöllisenkin käytön. Verraten vuosilisenssillisiin palveluihin, solki.livessä maksat vain siitä, mitä käytät. Maksutavat ovat palvelun tavoin kotimaisia.</p><p><br></p><p> </p><p>\n</p><p>Erityistä plussaa Riikka antaa suomenkielisestä käyttöliittymästä ja toimintavarmuudesta. Jos apua tarvitsee, se on vain puhelun päässä, eikä tarvitse jonottaa asiakaspalveluun – käytön tuen kun hoitaa itse yrittäjä, Ollipekka Kivin, joka myös tilittää kuukausittain webinaarien ja tallenteiden tulot järjestäjille. \n</p><p><br></p><p>- Webinaareista tykätään tosi paljon. Saan valtavasti pelkkää positiivista palautetta, eikä solki.liveäkään ole kukaan negatiivisesti kommentoinut. Verkkokauppa on tarpeellinen ja erittäin hyödyllinen, Riikka summaa palautetta.\n</p><p><br></p><p>Toisia yrittäjiä Riikka kannustaa kokeilemaan webinaarien pitoa solki.livellä. Myytäväksi tehtävien tallenteiden nauhoittaminen on kätevää ja käyttäjäystävällistä, koska tallennuksen voi pysäyttää ja nauhoittaa vaikka yhden dian uudelleen. \n</p><p>- Tallenteilla on helpompi lähteä liikkeelle, ja neuvoisin satsaamaan myös mainostamiseen. Rohkeasti vaan kokeilemaan! Riikka kannustaa.\n</p><p><br></p>",
+          "text": "<p><b>Tilitoimisto Finansia Ky \n</b></p><p>\n</p><p>Tilitoimisto Finansia Ky pitää webinaareja solki.live-palvelussa noin kerran kuukaudessa. Kohderyhminä ovat tilitoimistot ja yritykset, aiheina mm. paljon puhuttanut GDPR, osakeyhtiö ja muut yritysmuodot, yrittäjille suunnattu kirjanpidon raportin selvennystä ja paljon muita. \n</p><p><br></p><p>- Pidettyäni webinaarin pyynnöstä Suomen yrittäjille mietin, että näitähän voisi alkaa pitämään itsekin. Olen kouluttanut paljon livenä, mutta webinaarit palvelevat parhaiten sellaisia koulutuksia, jotka eivät ole koko päivän kestäviä ja osallistujia olisi ympäri Suomen. Webinaarit ovat käteviä osallistujalle sekä järjestäjälle, ne kun eivät vaadi matkustusta ja niitä voi järjestää vaikka omalta toimistolta, kertoo Finansian yrittäjä Riikka Lehtinen.\n</p><p><br></p><p>Riikka valitsi solki.liven yhdessä miehensä kanssa. Päätös alustasta oli helppo, valintakriteereiksi nousivat kotimaisuus, helppokäyttöisyys ja joustava hinnoittelu.\n</p><p><br></p><p>Webinaarit ja solki.live-palvelussa oleva tallenteiden verkkokauppa mahdollistaa myynnin kasvun muun liiketoiminnan taustalla. Riikan tallenteita on myyty runsaasti, viimeisintä noin 100 kertaa. Webinaaritallenteiden hinnat vaihtelevat alle 100€ suuruisissa summissa.\n</p><p>- Tallenteilla ja webinaareilla on ollut huomattava merkitys kuukausimyyntiimme. Teen yksin tilitoimistotöitä, ja kuukausitasolla liikevaihtomme on lisääntynyt tallenteiden ja webinaarien avulla jopa 1/3, Riikka kehuu innoissaan.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
           "_name": "content1",
           "_anchor": "content1-27"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showCaption": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/0-2-1400x533.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "BACKGROUND IMAGE",
+          "caption": "<i>\"Webinaarien pidossa voi myös pitää vaikka kesälomaa, sillä joustava hinnoittelu mahdollistaa lyhytaikaisen ja epäsäännöllisenkin käytön. Verraten vuosilisenssillisiin palveluihin, solki.livessä maksat vain siitä, mitä käytät\".</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-2i"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Webinaarien pidossa voi myös pitää vaikka kesälomaa, sillä joustava hinnoittelumme mahdollistaa lyhytaikaisen ja epäsäännöllisenkin käytön. Verraten vuosilisenssillisiin palveluihin, solki.livessä maksat vain siitä, mitä käytät. Maksutavat ovat palvelun tavoin kotimaisia.\n<div>\n</div><div>Erityistä plussaa Riikka antaa suomenkielisestä käyttöliittymästä ja toimintavarmuudesta. Jos apua tarvitsee, se on vain puhelun päässä, eikä tarvitse jonottaa asiakaspalveluun – käytön tuen kun hoitaa itse yrittäjä, Ollipekka Kivin, joka myös tilittää kuukausittain webinaarien ja tallenteiden tulot järjestäjille.\n</div><div>\n</div><div>- Webinaareista tykätään tosi paljon. Saan valtavasti pelkkää positiivista palautetta, eikä solki.liveäkään ole kukaan negatiivisesti kommentoinut. Verkkokauppa on tarpeellinen ja erittäin hyödyllinen, Riikka summaa palautetta.\n</div><div>\n</div><div>Toisia yrittäjiä Riikka kannustaa kokeilemaan webinaarien pitoa solki.livellä. Myytäväksi tehtävien tallenteiden nauhoittaminen on kätevää ja käyttäjäystävällistä, koska tallennuksen voi pysäyttää ja nauhoittaa vaikka yhden dian uudelleen.\n</div><div>- Tallenteilla on helpompi lähteä liikkeelle, ja neuvoisin satsaamaan myös mainostamiseen. Rohkeasti vaan kokeilemaan! Riikka kannustaa.</div>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2j"
         },
         {
           "_inherit": "msg-box5",

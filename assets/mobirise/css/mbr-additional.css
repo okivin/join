@@ -671,6 +671,13 @@ h6,
 #msg-box8-2d .mbr-section-title {
   color: #ffffff;
 }
+#content5-2i .mbr-section-title,
+#content5-2i p {
+  color: #fff;
+}
+#content5-2i DIV {
+  color: #ffffff;
+}
 #form1-28 .form-control-label {
   color: #232323;
 }
