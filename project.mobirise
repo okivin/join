@@ -1302,7 +1302,7 @@
           },
           "text1": "<strong>Yritys</strong><br>Y-tunnus: 263929-4",
           "text2": "<strong>Yhteys</strong><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPuhelin: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
-          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook.me\" target=\"_blank\"></a><a href=\"index.html#form1-1b\" target=\"_blank\">Varaa</a><i><a href=\"index.html#form1-1b\" target=\"_blank\"> </a></i><a href=\"index.html#form1-1b\" target=\"_blank\">livekeskustelu</a><a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\"></a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -1392,7 +1392,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Useimmin kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">OTA YHTEYTTÄ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content6-2f\">Useimmin kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page1.html#form1-28\">OTA YHTEYTTÄ</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1408,7 +1408,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOLKI.LIVE</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOLKI.LIVE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1426,6 +1426,9 @@
             },
             ".lead P": {
               "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -1515,7 +1518,7 @@
           "_tags": [
             "Theme"
           ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Haluan kuulla lisää!</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Haluan kuulla lisää!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2a"
         },
@@ -1641,7 +1644,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kokeile ilmaiseksi!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Kokeile ilmaiseksi!</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-2h"
         },
@@ -1685,7 +1688,7 @@
           },
           "text1": "<strong>Yritys</strong><br>Y-tunnus: 263929-4",
           "text2": "<strong>Yhteys</strong><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPuhelin: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
-          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://opkivin.youcanbook.me\" target=\"_blank\"></a><a href=\"index.html#form1-1b\" target=\"_blank\">Varaa</a><i><a href=\"index.html#form1-1b\" target=\"_blank\"> </a></i><a href=\"index.html#form1-1b\" target=\"_blank\">livekeskustelu</a><a href=\"https://opkivin.youcanbook..me\" target=\"_blank\" class=\"text-white\"></a><a href=\"asdasdasd\" target=\"_blank\"></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
           "_anchor": "contacts1-23"
         }
       ]
