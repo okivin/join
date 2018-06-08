@@ -540,18 +540,19 @@ h6,
   color: #00a885;
   font-size: 20px;
 }
-#testimonials3-h .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-h .mbr-author-name {
-  color: #ccc;
-}
 #header3-2c .mbr-section-title,
 #header3-2c .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2c .mbr-section-title {
   font-size: 20px;
+  color: #ffffff;
+}
+#testimonials3-h .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-h .mbr-author-name {
+  color: #ccc;
 }
 #pricing-table2-1s .mbr-plan-header,
 #pricing-table2-1s .mbr-plan-body {
