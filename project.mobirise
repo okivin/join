@@ -1428,7 +1428,7 @@
               "font-size": "20px"
             },
             ".mbr-section-title": {
-              "color": "#26a69a"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -1439,7 +1439,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/0-1-1400x533.png",
-            "parallax": true,
+            "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#F2F2F2",
             "bgVideoRadio": false,
