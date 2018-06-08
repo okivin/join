@@ -1392,7 +1392,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content6-2f\">Useimmin kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page1.html#form1-28\">OTA YHTEYTTÄ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content6-2f\">Usein kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page1.html#form1-28\">OTA YHTEYTTÄ</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1428,7 +1428,7 @@
               "font-size": "20px"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#28262b"
             }
           },
           "_params": {
@@ -1591,7 +1591,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Useimmin kysytyt kysymykset",
+          "title": "Usein kysytyt kysymykset",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
