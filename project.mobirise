@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tilitoimisto.html",
+    "currentPage": "page1.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.7.7",
     "name": "saken kanssa tehty",
@@ -1306,7 +1306,7 @@
         }
       ]
     },
-    "tilitoimisto.html": {
+    "page1.html": {
       "settings": {
         "meta_descr": "Lue, miten tilitoimistoyrittäjä tienaa 1/3 liikevaihdostaan järjestämällä webinaareja ja myymällä tallenteita. Webinaari, etätapaaminen, tilitoimisto, solki.live, verkkokurssi, verkkokauppa",
         "title": "tilitoimisto",
