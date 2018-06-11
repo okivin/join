@@ -946,7 +946,7 @@
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": "4",
+            "count": "5",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1019,6 +1019,23 @@
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/user-id-612-profile-image-15121228232012833000-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Samuel Hilli",
+              "authorBio": "Ratkaisukeskeinen terapeutti, psykiatrinen sairaanhoitaja",
+              "text": "<p>“Solki toimii kahdenkeskisessä etäterapiassa ja webinaarien pidossa hyvin. Palvelun käyttö on helppoa ja selkeää sekä asiakaspalvelu on ollut kattavaa ja riittävää. Suosittelen muillekin terapeuteille!”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/hilli-samuel-121x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
