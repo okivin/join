@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "tilitoimisto-yrittaja-liikevaihto-kasvaa.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.7.7",
     "name": "saken kanssa tehty",
@@ -1633,7 +1633,7 @@
         }
       ]
     },
-    "page1.html": {
+    "tilitoimisto-yrittaja-liikevaihto-kasvaa.html": {
       "settings": {
         "meta_descr": "Lue, miten tilitoimistoyrittäjä tienaa 1/3 liikevaihdostaan järjestämällä webinaareja ja myymällä tallenteita. Webinaari, etätapaaminen, tilitoimisto, solki.live, verkkokurssi, verkkokauppa",
         "title": "Tilitoimistoyrittäjän liikevaihdosta 1/3 tulee solki.liven kautta",
