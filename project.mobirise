@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ENG.html",
+    "currentPage": "page2.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.7.7",
     "name": "saken kanssa tehty",
@@ -2091,7 +2091,7 @@
         }
       ]
     },
-    "ENG.html": {
+    "page2.html": {
       "settings": {
         "title": "Online meetings and events, webinars, sell videos and more with solki",
         "meta_descr": "Online meetings and events, webinars, sell videos and more with solki",
