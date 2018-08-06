@@ -309,7 +309,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#ffffff",
             "overlayOpacity": "0.7"
           },
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
