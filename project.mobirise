@@ -287,7 +287,10 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#c1c1c1"
+              "color": "#26a69a"
+            },
+            ".lead P": {
+              "color": "#efefef"
             }
           },
           "_params": {
