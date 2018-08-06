@@ -444,6 +444,13 @@ h6,
 #msg-box8-2m .mbr-section-title {
   color: #ffffff;
 }
+#msg-box8-3q .mbr-section-title,
+#msg-box8-3q p {
+  color: #fff;
+}
+#msg-box8-3q .mbr-section-title {
+  color: #ffffff;
+}
 #header3-1x .mbr-section-title,
 #header3-1x .mbr-section-subtitle {
   text-align: center;
@@ -568,6 +575,9 @@ h6,
 #header3-2c .mbr-section-title {
   font-size: 20px;
   color: #ffffff;
+}
+#header3-2c .mbr-section-subtitle {
+  color: #f3c649;
 }
 #testimonials3-h .mbr-section-title {
   color: #efefef;

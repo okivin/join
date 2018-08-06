@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.7.7",
     "name": "saken kanssa tehty",
@@ -31,7 +31,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 134,
+    "uniqCompNum": 135,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -222,7 +222,7 @@
           "caption1": "Haluamme, että sinä voit tavata asiakkaasi ajasta ja paikasta riippumatta. Olemme tehneet sen todella helpoksi, jotta voisit tarjota palvelujasi asiakkaallesi/potilaallesi joko kahden kesken tai isommallekin ryhmälle.&nbsp;",
           "title2": "... <br>Monipuolisuutta",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Ei ole sellaista alaa jossa etäyhteyksiä ei voisi hyödyntää. Olemme <a href=\"https://www.1000autettua.com\" class=\"text-danger\">1000 autettua -kampanja</a>ssa todistaneetkin, että etäyhteyden kautta voi tarjota apua moniin (myös kipeisiin) aiheisiin, kuten masennus, työttömyys, läheisen menetys, avioero, riippuvuus...",
+          "caption2": "Ei ole sellaista alaa jossa verkkotapaamisia ei voisi hyödyntää. Olemme <a href=\"https://www.1000autettua.com\" class=\"text-danger\">1000 autettua -kampanja</a>ssa todistaneet, että etäyhteyden kautta voi tarjota apua moniin (myös kipeisiin) aiheisiin, kuten masennus, työttömyys, läheisen menetys, avioero, riippuvuus...",
           "title3": "...<br>Tyytyväisyyttä",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Olemme hyvin varmoja siitä, että asiakkaasi (uudet ja nykyiset) ovat valmiita vastaanottamaan palveluja myös etänä, jos heille tarjotaan siihen mahdollisuus. Asiakkaat arvostavat saatavuutta ja joustavuutta. Helppoutta tarjoamme myös sinulle.",
@@ -268,18 +268,55 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.7"
           },
           "title": "Yksityisyrittäjän liikevaihdosta jo 1/3 tulee Solki.liven kautta",
           "text": "<p>Lue Riikan tarina - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton Solki-koulutus</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton Solki-koulutus</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-2m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
+          "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton Solki-koulutus</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3q"
         },
         {
           "_styles": {
@@ -1271,6 +1308,9 @@
             ".mbr-section-title": {
               "font-size": "20px",
               "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#f3c649"
             }
           },
           "_params": {
@@ -1280,7 +1320,7 @@
             "bgColor": "#26a69a"
           },
           "title": "Tutustu asiakastapauksiin:",
-          "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a>",
+          "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a><br><a href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\">Yritysvalmentaja/kouluttaja Riikka Hovi, Anondo Oy</a>",
           "_tags": [
             "Theme"
           ],
