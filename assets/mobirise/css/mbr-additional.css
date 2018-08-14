@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -480,6 +481,11 @@ h6,
   color: #232323;
 }
 #form1-1b SMALL {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box1-3s H2 {
+  color: #000000;
+  font-size: 16px;
   font-family: 'Montserrat', sans-serif;
 }
 #msg-box3-e .mbr-section-title,

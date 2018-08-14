@@ -31,15 +31,19 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 135,
+    "uniqCompNum": 137,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-90106104-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-90106104-2\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-90106104-2');\r\n</script>",
     "siteFonts": [],
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": "https://join.solki.live",
+    "sitemapSwitcherAuto": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -274,7 +278,7 @@
           },
           "title": "Yksityisyrittäjän liikevaihdosta jo 1/3 tulee Solki.liven kautta",
           "text": "<p>Lue Riikan tarina - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton Solki-koulutus</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton alkukartoitus (20min)</a>",
           "_tags": [
             "Theme"
           ],
@@ -314,7 +318,7 @@
           },
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
           "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton Solki-koulutus</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton alkukartoitus (20min)</a>",
           "_tags": [
             "Theme"
           ],
@@ -672,6 +676,44 @@
           }
         },
         {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PRE MADE BLOCKS",
+          "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-3s",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -863,7 +905,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">IN ENGLISH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -1179,7 +1221,7 @@
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": "6",
+            "count": "9",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1286,6 +1328,57 @@
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/minnak-1-160x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Roope M.",
+              "authorBio": "Erikoissairaanhoito, Ravitsemusterapeutti",
+              "text": "Solki.live helpottaa parhaimmillaan sekä työntekoa että potilasta, jonka ei tarvitse lähteä mahdollisesti pitkänkin matkan takaa vastaanotolle, jos ohjauksen luonne ei sitä vaadi.&nbsp;<span style=\"font-size: 1.125rem;\">Olen tavannut potilaita kahdenkesken, mutta aion järjestää myös online-ryhmiä sekä webinaareja. Asiakaspalvelu on ollut kattavaa ja riittävää.</span><div><br></div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/roopemakela-120x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Riikka Hovi",
+              "authorBio": "Valmentaja/kouluttaja, Anondo Oy",
+              "text": "Tiedän, että monella yrittäjällä on kynnys siirtää osaamistaan verkkoon. Todella moni\n<span style=\"font-size: 1.125rem;\"></span><div>kuitenkin toivoo parempaa liikevaihtoa ja mahdollista ajasta ja paikasta riippumatonta\n<span style=\"font-size: 1.125rem;\"></span></div><div>myyntiä. Tekniikka on yksi iso asia, joka askarruttaa mieltä.\n</div><div><br></div><div>Solki.liveä kannattaa kokeilla ja todeta itse sen helppokäyttöisyys. Tässä palvelussa tekniikka\n<span style=\"font-size: 1.125rem;\"></span></div><div>ei asetu esteeksi, vaan myynnin pääsee aloittamaan nopeastikin Solki.liven kautta.</div><div><a href=\"https://join.solki.live/tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\">Lue, miten Riikka tapaa asiakkaitaan ajasta ja paikasta riippumatta tästä.</a></div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/user-id-651-profile-image-15157486782930516000-107x160.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            },
+            {
+              "authorName": "Solki-käyttäjät",
+              "authorBio": "Palveluja vastaanottaneet Solki.liven kautta",
+              "text": "<p>\"Erittäin helppokäyttöinen, ei vaadi edes rekisteröitymistä\", Lauri, 24</p><p>\"Minun mielestäni helppo tapa vastaanottaa palveluja\", Satu, 38</p><p>\"Miksei tämä ole käytössä joka alalla?\", J-P, 50</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/solkilogo-160x90.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -2914,7 +3007,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://solkilive.wixsite.com/join\">IN ENGLISH</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>",
           "_anchor": "ext_menu-33"
         },
         {
