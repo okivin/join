@@ -636,6 +636,7 @@ h6,
 #contacts1-f STRONG {
   color: #ffffff;
 }
+
 #menu-2e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -717,6 +718,11 @@ h6,
 }
 #form1-28 .form-control-label {
   color: #232323;
+}
+#msg-box1-3u H2 {
+  color: #000000;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 #header3-2g .mbr-section-title,
 #header3-2g .mbr-section-subtitle {
@@ -932,6 +938,7 @@ h6,
 #contacts1-3d STRONG {
   color: #ffffff;
 }
+
 #menu-3f .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1010,6 +1017,11 @@ h6,
 }
 #form1-3l .form-control-label {
   color: #232323;
+}
+#msg-box1-3t H2 {
+  color: #000000;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
 }
 #header3-3m .mbr-section-title,
 #header3-3m .mbr-section-subtitle {
