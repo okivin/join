@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "valvira-etävastaanotto-lääkäri-terapia-video-etä",
+    "currentPage": "valvira-etavastaanotto-laakari-terapia-video-eta",
     "versionFirst": "3.5.2",
     "versionPublish": "3.12",
     "name": "Virallinen/saken kanssa tehty",
@@ -4242,7 +4242,7 @@
         }
       ]
     },
-    "valvira-etävastaanotto-lääkäri-terapia-video-etä": {
+    "valvira-etavastaanotto-laakari-terapia-video-eta": {
       "settings": {
         "title": "Valviran hyväksymät etävastaanotot sote-alalle; lääkärit, terapeutit, kuntoutusohjaajat",
         "meta_descr": "Valviran hyväksymä helppokäyttöinen työkalu asiakkaan ja potilaan etävastaanottoon ja -tapaamiseen verkossa.",
