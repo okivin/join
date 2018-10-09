@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "solki-sote.html",
     "versionFirst": "3.5.2",
-    "versionPublish": "3.12",
+    "versionPublish": "4.8.4",
     "name": "Virallinen/saken kanssa tehty",
     "theme": {
       "name": "mobirise3",
@@ -73,23 +73,23 @@
           },
           "_anchor": "header1-1a",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/videoneuvottelu-verkkokauppa-webinaari-solki.live-youtube.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.4"
           },
           "title": "<span style=\"font-weight: normal;\">Ovatko verkkotapaamiset arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
@@ -107,10 +107,10 @@
           "_name": "header3",
           "_anchor": "header3-2q",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Miksi?",
           "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää? Miksi se on perustettu?&nbsp;"
@@ -132,27 +132,27 @@
           "_name": "features7",
           "_anchor": "features7-2p",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -263,23 +263,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2m",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1618x1080.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": "0.7"
           },
           "title": "Yksityisyrittäjän liikevaihdosta jo 1/3 tulee Solki.liven kautta",
           "text": "<p>Lue Riikan tarina - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
@@ -303,23 +303,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3q",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": "0.7"
           },
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
           "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
@@ -340,10 +340,10 @@
           "_name": "header3",
           "_anchor": "header3-1x",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#efefef",
-            "showMeta": true
+            "bgColor": "#efefef"
           },
           "title": "Solki.live mediassa:",
           "meta": "Tiesitkö, Solki.live on myös mukana 1000 autettua -hyväntekeväisyyskampanjassa!"
@@ -355,26 +355,26 @@
           "_name": "features3",
           "_anchor": "features3-1w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -501,27 +501,27 @@
           "_name": "features4",
           "_anchor": "features4-1d",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -630,19 +630,19 @@
           },
           "_anchor": "form1-1b",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Haluan henkilökohtaisen esittelyn!&nbsp;<br>",
           "subtitle": "Saat esittelyn jälkeen ilmaiset testitunnukset.",
@@ -690,24 +690,24 @@
           },
           "_anchor": "msg-box1-3s",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
@@ -721,25 +721,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-1v",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "54",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -779,23 +779,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-e",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
           "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa jokaista katsojaa suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme. Myös hinnoittelu eroaa muista palveluista. Maksat nimittäin <i>vain</i> siitä, mitä käytät!</p><p>Jätä vain yhteystietosi, niin otan sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
@@ -808,13 +808,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
         },
@@ -874,6 +874,12 @@
           "_name": "ext.menu",
           "_anchor": "index-ext_menu-0",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
@@ -882,13 +888,7 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -919,10 +919,10 @@
           "_name": "header3",
           "_anchor": "header3-7",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#efefef",
-            "showMeta": false
+            "bgColor": "#efefef"
           },
           "title": "Näin solki.live toimii:&nbsp;",
           "meta": ""
@@ -943,27 +943,27 @@
           "_name": "features4",
           "_anchor": "features4-8",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -1080,10 +1080,10 @@
           "_name": "header3",
           "_anchor": "header3-c",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "<p>Solki.live on helpoin, nopein ja kustannustehokkain!<br><i></i></p>",
           "meta": ""
@@ -1093,26 +1093,26 @@
           "_name": "features6",
           "_anchor": "index-features6-0",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -1376,22 +1376,22 @@
           ],
           "_anchor": "testimonials2-2l",
           "_params": {
-            "count": "9",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": true,
+            "count": "9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.2
           },
           "title": "Mitä käyttäjät sanovat solki.livestä?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -1415,10 +1415,10 @@
           "_name": "header3",
           "_anchor": "header3-2c",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#26a69a",
-            "showMeta": true
+            "bgColor": "#26a69a"
           },
           "title": "Tutustu asiakastapauksiin:",
           "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a><br><a href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\">Yritysvalmentaja/kouluttaja Riikka Hovi, Anondo Oy</a>"
@@ -1567,22 +1567,22 @@
           ],
           "_anchor": "testimonials3-h",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "count": "9",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": false,
             "showBio": false,
+            "count": "9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/videoneuvottelu-livevideo-webinaari-verkkokauppa-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": "0.4"
           },
           "title": "Lisää palautetta mahtavilta käyttäjiltämme:",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -1628,27 +1628,27 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-1s",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#424648",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": true,
             "secondType": "",
             "thirdType": "",
-            "fourthType": ""
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#424648",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Hinnoitteluesimerkkejä",
           "subtitle": "Maksat vain käytöstä - <b>MUISTA että SINÄ voit laskuttaa asiakasta suoraan solki.livessä!</b>",
@@ -1701,24 +1701,24 @@
           },
           "_anchor": "msg-box1-1t",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Pyydä tarjous!</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -1739,13 +1739,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -1783,13 +1783,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
         },
@@ -1848,17 +1848,17 @@
           "_name": "menu",
           "_anchor": "menu-2e",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1901,23 +1901,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2d",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/0-1-1400x533.png",
-            "bgColor": "#26a69a",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "overlayOpacity": "0.6"
           },
           "title": "Tilitoimistoyrittäjä Riikka Lehtinen järjestää webinaareja ja myy tallenteita",
           "text": "<p><i>\"Kuukausittaisesta liikevaihdostani jo noin 1/3 tulee Solki.liven kautta\"</i></p><p>Lue koko haastattelu alta!</p>",
@@ -1948,25 +1948,25 @@
           },
           "_anchor": "msg-box5-2k",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2014,25 +2014,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-2a",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2068,19 +2068,19 @@
           },
           "_anchor": "form1-28",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Kiinnostuitko? Ota yhteyttä!",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -2128,24 +2128,24 @@
           },
           "_anchor": "msg-box1-3u",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
@@ -2163,10 +2163,10 @@
           "_name": "header3",
           "_anchor": "header3-2g",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Usein kysytyt kysymykset",
           "meta": "By John Smith posted July 20, 2016"
@@ -2198,23 +2198,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-2h",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
@@ -2235,13 +2235,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2279,13 +2279,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
         },
@@ -2344,17 +2344,17 @@
           "_name": "menu",
           "_anchor": "menu-3f",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2397,23 +2397,23 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-3g",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "parallax": false,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/0-1-1400x533.png",
-            "bgColor": "#26a69a",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
-            "showButton": false
+            "overlayOpacity": "0.6"
           },
           "title": "Valmentaja Riikka Hovi tapaa asiakkaitaan ajasta ja paikasta riippumatta.",
           "text": "<p><i>\"Kuukausittaisesta liikevaihdostani jo noin 1/3 tulee Solki.liven kautta\"</i></p><p>Lue koko palaute alta!</p>",
@@ -2440,25 +2440,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-3k",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -2494,19 +2494,19 @@
           },
           "_anchor": "form1-3l",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cccccc",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#cccccc",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Kiinnostuitko? Ota yhteyttä!<br>",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -2554,24 +2554,24 @@
           },
           "_anchor": "msg-box1-3t",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
@@ -2589,10 +2589,10 @@
           "_name": "header3",
           "_anchor": "header3-3m",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Usein kysytyt kysymykset",
           "meta": "By John Smith posted July 20, 2016"
@@ -2624,23 +2624,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-3o",
           "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "MODERN STYLES",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
@@ -2661,13 +2661,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2718,23 +2718,23 @@
           },
           "_anchor": "header1-2r",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/videoneuvottelu-verkkokauppa-webinaari-solki.live-youtube.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.4"
           },
           "title": "Do you want to meet your customers online?<br><br>",
           "text": "At Solki.live we make it easy, safe and affordable to meet your patients and customers via live video",
@@ -2752,10 +2752,10 @@
           "_name": "header3",
           "_anchor": "header3-2s",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Why?",
           "meta": "Why should I use Solki.live?"
@@ -2777,27 +2777,27 @@
           "_name": "features7",
           "_anchor": "features7-2t",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -2909,10 +2909,10 @@
           "_name": "header3",
           "_anchor": "header3-2v",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#c1c1c1",
-            "showMeta": false
+            "bgColor": "#c1c1c1"
           },
           "title": "Solki.live on media:",
           "meta": ""
@@ -2924,26 +2924,26 @@
           "_name": "features3",
           "_anchor": "features3-2w",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -3070,27 +3070,27 @@
           "_name": "features4",
           "_anchor": "features4-2y",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -3195,19 +3195,19 @@
           },
           "_anchor": "form1-3v",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "I want a free demo!",
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
@@ -3248,25 +3248,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-30",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": "54",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -3306,23 +3306,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-31",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "How is Solki different from any other live video tool?<br>",
           "text": "<p>Solki.live is an all-in-one tool including webinars, interactive live groups and one-to-one consultations. You can charge every customer directly on Solki, record your live sessions and sell them. Also our pricing model is different; you pay only for what you use! You are also able to let your customer(s) or viewers into your session with just one click without even registering (Anonymous login).</p><p>You can leave your contact information and I will be on touch with you very soon. What you have to lose?</p><p><b>Try it (100% risk-free!)</b></p>",
@@ -3335,13 +3335,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
         },
@@ -3401,6 +3401,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-33",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
@@ -3409,13 +3415,7 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3446,10 +3446,10 @@
           "_name": "header3",
           "_anchor": "header3-34",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#efefef",
-            "showMeta": false
+            "bgColor": "#efefef"
           },
           "title": "This is how Solki works:",
           "meta": ""
@@ -3470,27 +3470,27 @@
           "_name": "features4",
           "_anchor": "features4-35",
           "_params": {
-            "iconsBgColor": "#f2f2f2",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#26a69a",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -3607,10 +3607,10 @@
           "_name": "header3",
           "_anchor": "header3-36",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "<p>Solki.live is the easiest, fastest and most efficient!<br><i></i></p>",
           "meta": ""
@@ -3620,26 +3620,26 @@
           "_name": "features6",
           "_anchor": "features6-37",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -3852,22 +3852,22 @@
           ],
           "_anchor": "testimonials2-38",
           "_params": {
-            "count": "6",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": true,
+            "count": "6",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.2
           },
           "title": "Mitä käyttäjät sanovat solki.livestä?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -3888,10 +3888,10 @@
           "_name": "header3",
           "_anchor": "header3-39",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#26a69a",
-            "showMeta": true
+            "bgColor": "#26a69a"
           },
           "title": "Tutustu asiakastapauksiin:",
           "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a>"
@@ -4040,22 +4040,22 @@
           ],
           "_anchor": "testimonials3-3a",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "count": "9",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": false,
             "showBio": false,
+            "count": "9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/videoneuvottelu-livevideo-webinaari-verkkokauppa-2000x1333.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": "0.4"
           },
           "title": "Lisää palautetta mahtavilta käyttäjiltämme:",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -4101,27 +4101,27 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-3b",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#424648",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": true,
             "secondType": "",
             "thirdType": "",
-            "fourthType": ""
+            "fourthType": "",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#424648",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Hinnoitteluesimerkkejä",
           "subtitle": "Maksat vain käytöstä - <b>MUISTA että SINÄ voit laskuttaa asiakasta suoraan solki.livessä!</b>",
@@ -4174,24 +4174,24 @@
           },
           "_anchor": "msg-box1-3c",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Pyydä tarjous!</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -4212,13 +4212,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -4268,23 +4268,23 @@
           },
           "_anchor": "header1-3w",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1465.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.6"
           },
           "title": "<span style=\"font-weight: normal;\">Onko verkkovastaanotto arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
@@ -4302,10 +4302,10 @@
           "_name": "header3",
           "_anchor": "header3-3x",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Miksi?",
           "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää? Miksi se on perustettu?&nbsp;"
@@ -4327,27 +4327,27 @@
           "_name": "features7",
           "_anchor": "features7-3y",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -4467,10 +4467,10 @@
           "_name": "header3",
           "_anchor": "header3-41",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#3d8eb9",
-            "showMeta": true
+            "bgColor": "#3d8eb9"
           },
           "title": "Solki.liven avulla on tehty jo useita SoTe-alan tilaisuuksia etänä.",
           "meta": "Tiesitkö, Solki.live on myös mukana 1000 autettua -hyväntekeväisyyskampanjassa!"
@@ -4482,26 +4482,26 @@
           "_name": "features3",
           "_anchor": "features3-42",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "image": {
@@ -4630,27 +4630,27 @@
           "_name": "features4",
           "_anchor": "features4-44",
           "_params": {
-            "iconsBgColor": "#3d8eb9",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 3,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": false,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#3d8eb9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -4759,19 +4759,19 @@
           },
           "_anchor": "form1-45",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "Jätä yhteydenottopyyntö!&nbsp;<br>",
           "subtitle": "Haluatko maksuttoman alkukoulutuksen Solki.liven käyttöön? Haluatko lisätietoja palvelusta? Kerro, niin vastaamme sinulle pian!",
@@ -4819,24 +4819,24 @@
           },
           "_anchor": "msg-box1-46",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": true,
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
@@ -4850,25 +4850,25 @@
           "_name": "msg-box4",
           "_anchor": "msg-box4-47",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
             "imageSize": "54",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -4908,23 +4908,23 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-48",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "overlayOpacity": 0.5
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
           "text": "<p>Solki.live mahdollistaa kahdenkeskiset-, ryhmä-, ja webinaarivastaanotot. Voit tarvittaessa tallentaa tapaamisesi myöhempää käyttöä varten. Myös hinnoittelu eroaa muista palveluista. Maksat nimittäin <i>vain</i> siitä, mitä käytät!</p><p>Jätä vain yhteystietosi, niin otan sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
@@ -4937,13 +4937,13 @@
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
         },
@@ -5003,6 +5003,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4a",
           "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
             "bgColor": "#3d8eb9",
             "fontSize": "0.95",
             "fontName": {
@@ -5011,13 +5017,7 @@
               "css": "'Montserrat', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": false,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -5048,10 +5048,10 @@
           "_name": "header3",
           "_anchor": "header3-4b",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#efefef",
-            "showMeta": false
+            "bgColor": "#efefef"
           },
           "title": "Näin solki.live toimii:&nbsp;",
           "meta": ""
@@ -5078,27 +5078,27 @@
           "_name": "features4",
           "_anchor": "features4-4c",
           "_params": {
-            "iconsBgColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "#ffffff",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -5215,10 +5215,10 @@
           "_name": "header3",
           "_anchor": "header3-4d",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "3",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "<p>Solki.live on helpoin, nopein ja kustannustehokkain!<br><i></i></p>",
           "meta": ""
@@ -5228,26 +5228,26 @@
           "_name": "features6",
           "_anchor": "features6-4e",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": "5",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
@@ -5420,22 +5420,22 @@
           ],
           "_anchor": "testimonials2-4f",
           "_params": {
-            "count": "3",
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": true,
             "showName": true,
             "showBio": true,
+            "count": "3",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.2,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.2
           },
           "title": "Mitä käyttäjät sanovat solki.livestä?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -5584,22 +5584,22 @@
           ],
           "_anchor": "testimonials3-4h",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "count": "9",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": false,
             "showBio": false,
+            "count": "9",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
-            "bgColor": "#fff",
+            "parallax": false,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": "0.4",
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": "0.4"
           },
           "title": "Lisää palautetta mahtavilta käyttäjiltämme:",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -5645,27 +5645,27 @@
           "_name": "pricing-table2",
           "_anchor": "pricing-table2-4i",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": true,
             "firstType": "",
-            "showButtons": true,
             "secondType": "",
             "thirdType": "",
-            "fourthType": ""
+            "fourthType": "",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Hinnoitteluesimerkkejä",
           "subtitle": "Laskutus todellisen käytön mukaan - mahdollisuus myös kiinteään kk-maksuun!",
@@ -5718,24 +5718,24 @@
           },
           "_anchor": "msg-box1-4j",
           "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showText": false,
-            "showTitle": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\">Pyydä tarjous!</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
@@ -5756,24 +5756,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-4l",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e25041",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#e25041",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\">JÄTÄ YHTEYDENOTTOPYYNTÖ</a>",
           "title": "Vieläkö epäröit?",
@@ -5794,13 +5794,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
