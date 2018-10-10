@@ -887,7 +887,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -3414,7 +3414,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -4266,7 +4266,7 @@
               "font-size": "22px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "20px"
+              "font-size": "25px"
             }
           },
           "_anchor": "header1-3w",
@@ -4287,7 +4287,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.5"
           },
           "title": "<span style=\"font-weight: normal;\">Onko verkkovastaanotto arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
@@ -4961,13 +4961,13 @@
               "font-size": "36px"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#d14841"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#d14841"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-family": "'Montserrat', sans-serif"
             },
@@ -4990,7 +4990,7 @@
               "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#d14841",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -5019,7 +5019,7 @@
               "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "css": "'Montserrat', sans-serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#d14841",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
