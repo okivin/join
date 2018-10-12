@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.4",
     "name": "Virallinen/saken kanssa tehty",
@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Ovatko verkkotapaamiset arkipäivää vai tulevaisuuden suunnitelmissa? Myy osaamistasi. Verkkokauppa, verkkokurssit, webinaarit, videoneuvottelut ja ryhmäkoulutukset.",
-        "meta_descr": "Tapaa asiakkaat ja potilaat helposti verkossa. Lääkärit, terapeutit, kuntoutusohjaajat ja monet muut eri alojen ammattilaiset ovat valinneet solki.liven helpottamaan omaa arkeaan etävastaanottojen ja -tapaamisten avulla.",
+        "title": "Turvalliset (Valvira) ja helpot videotapaamiset sote-alalle potilaan ja asiakkaan tapaamiseen",
+        "meta_descr": "Asiakas- ja potilastapaamiset turvallisesti verkossa. Lääkärit, terapeutit, kuntoutusohjaajat ja monet muut eri alojen ammattilaiset ovat valinneet solki.liven helpottamaan omaa arkeaan etävastaanottojen ja -tapaamisten avulla.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -849,13 +849,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c7d74"
+              "background": "#307193"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#239a8e!important"
+              "background": "#3985ad!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#26a69a"
+              "background": "#3d8eb9"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -4242,7 +4242,7 @@
         }
       ]
     },
-    ".html": {
+    "solki-sote-alalle-eta-laakari-terapia.html": {
       "settings": {
         "title": "Valviran hyväksymät etävastaanotot sote-alalle; lääkärit, terapeutit, kuntoutusohjaajat",
         "meta_descr": "Valviran hyväksymä helppokäyttöinen työkalu asiakkaan ja potilaan etävastaanottoon ja -tapaamiseen verkossa.",
@@ -4277,7 +4277,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1465.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1465.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -4287,11 +4287,11 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.7"
+            "overlayOpacity": "0.8"
           },
           "title": "<span style=\"font-weight: normal;\">Onko verkkovastaanotto arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-right mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(104, 176, 214);\"></span>KOKEILE ILMAISEKSI</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-right mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(104, 176, 214);\"></span>KOKEILE ILMAISEKSI</a>  "
         },
         {
           "_styles": {
@@ -4487,11 +4487,11 @@
           "_params": {
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -4517,8 +4517,8 @@
               "title": ""
             }
           },
-          "title1": "YLE",
-          "subtitle1": "Klikkaa logoa siirtyäksesi uutiseen",
+          "title1": "<a href=\"https://yle.fi/uutiset/3-10193173\" class=\"text-info\">YLE: Solki.live etäterapiaan...</a>",
+          "subtitle1": "",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -4533,7 +4533,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<p>Satakunnan Kansa</p>",
+          "title2": "<p><a href=\"http://goo.gl/TP4afc\" class=\"text-info\">SK: Solki.liven avulla hyvinvointia..</a></p>",
           "subtitle2": "Klikkaa logoa siirtyäksesi uutiseen",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4549,7 +4549,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Suomen Yrittäjät",
+          "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\" class=\"text-info\">Yrittäjät: Ravistelee palvelujen jakam...</a>",
           "subtitle3": "Klikkaa logoa siirtyäksesi uutiseen",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4777,7 +4777,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Jätä yhteydenottopyyntö!&nbsp;<br>",
-          "subtitle": "Haluatko maksuttoman alkukoulutuksen Solki.liven käyttöön? Haluatko lisätietoja palvelusta? Kerro, niin vastaamme sinulle pian!",
+          "subtitle": "Haluatko maksuttoman alkukoulutuksen Solki.liven käyttöön? Haluatko lisätietoja palvelusta? Kysy, niin vastaamme sinulle pian!",
           "form": {
             "action": "olli.kivin@gmail.com",
             "alerts": {
@@ -4981,13 +4981,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
+              "background": "#1c7d74"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
+              "background": "#239a8e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#26a69a"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
