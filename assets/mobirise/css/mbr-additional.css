@@ -122,8 +122,8 @@ h6,
   border-color: #d4d4d4 !important;
 }
 .btn-secondary {
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #26a69a;
+  border-color: #26a69a;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -132,14 +132,14 @@ h6,
 .btn-secondary:active,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #94ada8;
-  border-color: #94ada8;
+  background-color: #186860;
+  border-color: #186860;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #94ada8 !important;
-  border-color: #94ada8 !important;
+  background-color: #186860 !important;
+  border-color: #186860 !important;
 }
 .btn-info {
   background-color: #3d8eb9;
@@ -243,8 +243,8 @@ h6,
 }
 .btn-secondary-outline {
   background: none;
-  border-color: #85a29c;
-  color: #85a29c;
+  border-color: #13534d;
+  color: #13534d;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -252,14 +252,14 @@ h6,
 .btn-secondary-outline:active,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #bfcecb;
-  border-color: #bfcecb;
+  background-color: #26a69a;
+  border-color: #26a69a;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #bfcecb !important;
-  border-color: #bfcecb !important;
+  background-color: #26a69a !important;
+  border-color: #26a69a !important;
 }
 .btn-info-outline {
   background: none;
@@ -529,19 +529,19 @@ h6,
 }
 #index-ext_menu-0 .link[aria-expanded="true"],
 #index-ext_menu-0 .dropdown-menu {
-  background: #307193;
+  background: #1c7d74;
 }
 #index-ext_menu-0 .nav-dropdown-sm .link:focus,
 #index-ext_menu-0 .nav-dropdown-sm .link:hover,
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #3985ad!important;
+  background: #239a8e!important;
 }
 #index-ext_menu-0 .navbar,
 #index-ext_menu-0 .nav-dropdown-sm,
 #index-ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #3d8eb9;
+  background: #26a69a;
 }
 #index-ext_menu-0 .bg-color.transparent .link {
   color: #ffffff;

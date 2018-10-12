@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": ".html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.4",
     "name": "Virallinen/saken kanssa tehty",
@@ -9,7 +9,7 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#ffffff",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#26a69a",
         "successColor": "#90a878",
         "infoColor": "#3d8eb9",
         "warningColor": "#f3c649",
@@ -283,7 +283,7 @@
           },
           "title": "Yksityisyrittäjän liikevaihdosta jo 1/3 tulee Solki.liven kautta",
           "text": "<p>Lue Riikan tarina - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
         },
         {
           "_styles": {
@@ -323,7 +323,7 @@
           },
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
           "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
         },
         {
           "_styles": {
@@ -673,7 +673,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä</a>"
         },
         {
           "_tags": [
@@ -709,7 +709,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
           "title": "PRE MADE BLOCKS"
         },
@@ -799,7 +799,7 @@
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
           "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa jokaista katsojaa suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme. Myös hinnoittelu eroaa muista palveluista. Maksat nimittäin <i>vain</i> siitä, mitä käytät!</p><p>Jätä vain yhteystietosi, niin otan sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
         },
         {
           "_name": "footer1",
@@ -849,13 +849,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#307193"
+              "background": "#1c7d74"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#3985ad!important"
+              "background": "#239a8e!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#3d8eb9"
+              "background": "#26a69a"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -880,7 +880,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -904,8 +904,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#pricing-table2-4i\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -1421,7 +1421,7 @@
             "bgColor": "#26a69a"
           },
           "title": "Tutustu asiakastapauksiin:",
-          "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a><br><a href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\">Yritysvalmentaja/kouluttaja Riikka Hovi, Anondo Oy</a>"
+          "meta": "<a href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\">Tilitoimisto Finansia Ky</a><br><a href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\">Yritysvalmentaja/kouluttaja Riikka Hovi, Anondo Oy</a>"
         },
         {
           "_inherit": "testimonials1",
@@ -1720,7 +1720,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Pyydä tarjous!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Pyydä tarjous!</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
           "title": "Haluatko keskustella kiinteästä kuukausihinnoittelusta?"
         },
@@ -1742,7 +1742,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -3407,7 +3407,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -3431,8 +3431,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#pricing-table2-4i\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -4215,7 +4215,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -5012,7 +5012,7 @@
             "sticky": true,
             "collapsed": true,
             "transparent": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "fontSize": "0.95",
             "fontName": {
               "name": "Montserrat",
@@ -5036,8 +5036,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://solki.live/events\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#pricing-table2-4i\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"sote#testimonials2-4f\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/login\" aria-expanded=\"false\">Kirjaudu sisään<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://solki.live/instructorregister\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -5800,7 +5800,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#26a69a",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
