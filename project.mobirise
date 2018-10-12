@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "solki-sote.html",
+    "currentPage": ".html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.4",
     "name": "Virallinen/saken kanssa tehty",
@@ -4242,7 +4242,7 @@
         }
       ]
     },
-    "solki-sote.html": {
+    ".html": {
       "settings": {
         "title": "Valviran hyväksymät etävastaanotot sote-alalle; lääkärit, terapeutit, kuntoutusohjaajat",
         "meta_descr": "Valviran hyväksymä helppokäyttöinen työkalu asiakkaan ja potilaan etävastaanottoon ja -tapaamiseen verkossa.",
