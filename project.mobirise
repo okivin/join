@@ -11,7 +11,7 @@
         "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
-        "infoColor": "#7e9b9f",
+        "infoColor": "#3d8eb9",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
         "titleFont": "Montserrat",
@@ -4291,7 +4291,7 @@
           },
           "title": "<span style=\"font-weight: normal;\">Onko verkkovastaanotto arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"sote#form1-45\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-right mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(104, 176, 214);\"></span>KOKEILE ILMAISEKSI</a> "
         },
         {
           "_styles": {
@@ -4663,7 +4663,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#27aae0"
+              "color": "#ffffff"
             }
           },
           "title1": "Toimii kaikilla laitteilla",
@@ -4678,7 +4678,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#27aae0"
+              "color": "#ffffff"
             }
           },
           "title2": "Helppokäyttöinen",
@@ -4693,7 +4693,7 @@
               "family": "MobiriseIcons",
               "active": true,
               "size": 0,
-              "color": "#27aae0"
+              "color": "#ffffff"
             }
           },
           "title3": "Turvallinen",
