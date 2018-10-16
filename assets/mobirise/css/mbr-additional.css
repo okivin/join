@@ -529,19 +529,19 @@ h6,
 }
 #index-ext_menu-0 .link[aria-expanded="true"],
 #index-ext_menu-0 .dropdown-menu {
-  background: #307193;
+  background: #1c7d74;
 }
 #index-ext_menu-0 .nav-dropdown-sm .link:focus,
 #index-ext_menu-0 .nav-dropdown-sm .link:hover,
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #3985ad!important;
+  background: #239a8e!important;
 }
 #index-ext_menu-0 .navbar,
 #index-ext_menu-0 .nav-dropdown-sm,
 #index-ext_menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #index-ext_menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #3d8eb9;
+  background: #26a69a;
 }
 #index-ext_menu-0 .bg-color.transparent .link {
   color: #ffffff;
@@ -835,199 +835,6 @@ h6,
 
 
 
-#header1-2r .mbr-section-title {
-  font-size: 25px;
-}
-#header1-2r .mbr-section-lead {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 22px;
-}
-#header3-2s .mbr-section-title,
-#header3-2s .mbr-section-subtitle {
-  text-align: center;
-}
-#features7-2t .card-subtitle {
-  color: #bcbcbc;
-}
-#features7-2t .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#header3-2v .mbr-section-title,
-#header3-2v .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2v .mbr-section-title {
-  text-align: center;
-  color: #000000;
-}
-#content1-2x P {
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-}
-#content1-2x DIV {
-  text-align: center;
-  font-family: 'Montserrat', sans-serif;
-}
-#features4-2y .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-2y .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#form1-3v .form-control-label {
-  color: #232323;
-}
-#msg-box3-31 .mbr-section-title,
-#msg-box3-31 p {
-  color: #000;
-}
-#msg-box3-31 .btn {
-  font-size: 14px;
-}
-#ext_menu-33 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-33 .navbar-caption {
-  color: #ffffff;
-  font-size: 36px;
-}
-#ext_menu-33 .navbar-toggler {
-  color: #ffffff;
-}
-#ext_menu-33 .close-icon::before,
-#ext_menu-33 .close-icon::after {
-  background-color: #ffffff;
-}
-#ext_menu-33 .link,
-#ext_menu-33 .dropdown-item {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
-}
-#ext_menu-33 .link {
-  font-size: 0.95rem;
-}
-#ext_menu-33 .dropdown-item,
-#ext_menu-33 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
-}
-#ext_menu-33 .link:hover,
-#ext_menu-33 .dropdown-item:hover,
-#ext_menu-33 .link:focus,
-#ext_menu-33 .dropdown-item:focus {
-  color: #ffffff;
-}
-#ext_menu-33 .link[aria-expanded="true"],
-#ext_menu-33 .dropdown-menu {
-  background: #00635a;
-}
-#ext_menu-33 .nav-dropdown-sm .link:focus,
-#ext_menu-33 .nav-dropdown-sm .link:hover,
-#ext_menu-33 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-33 .nav-dropdown-sm .dropdown-item:hover {
-  background: #00877a!important;
-}
-#ext_menu-33 .navbar,
-#ext_menu-33 .nav-dropdown-sm,
-#ext_menu-33 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-33 .nav-dropdown-sm .dropdown-menu {
-  background: #009688;
-}
-#ext_menu-33 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#ext_menu-33 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-33 .bg-color.transparent.opened .link:hover,
-#ext_menu-33 .bg-color.transparent.opened .link:focus {
-  color: #ffffff;
-}
-#ext_menu-33 .link[aria-expanded="true"],
-#ext_menu-33 .dropdown-item[aria-expanded="true"] {
-  color: #ffffff!important;
-}
-#header3-34 .mbr-section-title,
-#header3-34 .mbr-section-subtitle {
-  text-align: center;
-}
-#features4-35 .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-35 .iconbox {
-  background-color: #f2f2f2;
-  border-color: #f2f2f2;
-}
-#header3-36 .mbr-section-title,
-#header3-36 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-36 I {
-  color: #00a885;
-  font-size: 20px;
-}
-#header3-39 .mbr-section-title,
-#header3-39 .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-39 .mbr-section-title {
-  font-size: 20px;
-  color: #ffffff;
-}
-#testimonials3-3a .mbr-section-title {
-  color: #efefef;
-}
-#testimonials3-3a .mbr-author-name {
-  color: #ccc;
-}
-#pricing-table2-3b .mbr-plan-header,
-#pricing-table2-3b .mbr-plan-body {
-  background-color: #f4f4f4;
-}
-#pricing-table2-3b ul,
-#pricing-table2-3b .mbr-plan-title,
-#pricing-table2-3b .mbr-price-value,
-#pricing-table2-3b .mbr-price-figure,
-#pricing-table2-3b .mbr-price-term {
-  color: #28262b;
-}
-#pricing-table2-3b .mbr-plan {
-  border-color: #e8e8e8;
-}
-#pricing-table2-3b .mbr-plan .list-group-item {
-  border-color: #cfcfcf;
-}
-#pricing-table2-3b .mbr-price-term {
-  color: #000000;
-  font-size: 30px;
-}
-#pricing-table2-3b .mbr-price-figure {
-  font-size: 60px;
-}
-#pricing-table2-3b UL {
-  color: #28262b;
-}
-#pricing-table2-3b .mbr-section__container .mbr-section-title {
-  color: #efefef;
-}
-#pricing-table2-3b .mbr-section__container .mbr-section-subtitle B {
-  color: #efefef;
-}
-#pricing-table2-3b .mbr-section__container .mbr-section-subtitle {
-  color: #efefef;
-}
-#msg-box1-3c H3 {
-  font-size: 25px;
-}
-#contacts1-3d STRONG {
-  color: #ffffff;
-}
-
-
-
-
 
 
 #header1-3w .mbr-section-title {
@@ -1245,5 +1052,198 @@ h6,
   color: #ffffff;
 }
 #contacts1-4k STRONG {
+  color: #ffffff;
+}
+
+
+
+
+#header1-2r .mbr-section-title {
+  font-size: 25px;
+}
+#header1-2r .mbr-section-lead {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+}
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
+  text-align: center;
+}
+#features7-2t .card-subtitle {
+  color: #bcbcbc;
+}
+#features7-2t .iconbox {
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+#header3-2v .mbr-section-title,
+#header3-2v .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2v .mbr-section-title {
+  text-align: center;
+  color: #ffffff;
+}
+#content1-2x P {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+#content1-2x DIV {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+#features4-2y .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-2y .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#form1-3v .form-control-label {
+  color: #232323;
+}
+#msg-box3-31 .mbr-section-title,
+#msg-box3-31 p {
+  color: #000;
+}
+#msg-box3-31 .btn {
+  font-size: 14px;
+}
+#ext_menu-33 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-33 .navbar-caption {
+  color: #ffffff;
+  font-size: 36px;
+}
+#ext_menu-33 .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-33 .close-icon::before,
+#ext_menu-33 .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-33 .link,
+#ext_menu-33 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-33 .link {
+  font-size: 0.95rem;
+}
+#ext_menu-33 .dropdown-item,
+#ext_menu-33 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#ext_menu-33 .link:hover,
+#ext_menu-33 .dropdown-item:hover,
+#ext_menu-33 .link:focus,
+#ext_menu-33 .dropdown-item:focus {
+  color: #ffffff;
+}
+#ext_menu-33 .link[aria-expanded="true"],
+#ext_menu-33 .dropdown-menu {
+  background: #1c7d74;
+}
+#ext_menu-33 .nav-dropdown-sm .link:focus,
+#ext_menu-33 .nav-dropdown-sm .link:hover,
+#ext_menu-33 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-33 .nav-dropdown-sm .dropdown-item:hover {
+  background: #239a8e!important;
+}
+#ext_menu-33 .navbar,
+#ext_menu-33 .nav-dropdown-sm,
+#ext_menu-33 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-33 .nav-dropdown-sm .dropdown-menu {
+  background: #26a69a;
+}
+#ext_menu-33 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-33 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-33 .bg-color.transparent.opened .link:hover,
+#ext_menu-33 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#ext_menu-33 .link[aria-expanded="true"],
+#ext_menu-33 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#header3-34 .mbr-section-title,
+#header3-34 .mbr-section-subtitle {
+  text-align: center;
+}
+#features4-35 .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-35 .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
+#header3-36 .mbr-section-title,
+#header3-36 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-36 I {
+  color: #00a885;
+  font-size: 20px;
+}
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-39 .mbr-section-title {
+  font-size: 20px;
+  color: #ffffff;
+}
+#testimonials3-3a .mbr-section-title {
+  color: #efefef;
+}
+#testimonials3-3a .mbr-author-name {
+  color: #ccc;
+}
+#pricing-table2-3b .mbr-plan-header,
+#pricing-table2-3b .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-3b ul,
+#pricing-table2-3b .mbr-plan-title,
+#pricing-table2-3b .mbr-price-value,
+#pricing-table2-3b .mbr-price-figure,
+#pricing-table2-3b .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-3b .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-3b .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
+#pricing-table2-3b .mbr-price-term {
+  color: #000000;
+  font-size: 30px;
+}
+#pricing-table2-3b .mbr-price-figure {
+  font-size: 60px;
+}
+#pricing-table2-3b UL {
+  color: #28262b;
+}
+#pricing-table2-3b .mbr-section__container .mbr-section-title {
+  color: #efefef;
+}
+#pricing-table2-3b .mbr-section__container .mbr-section-subtitle B {
+  color: #efefef;
+}
+#pricing-table2-3b .mbr-section__container .mbr-section-subtitle {
+  color: #efefef;
+}
+#msg-box1-3c H3 {
+  font-size: 25px;
+}
+#contacts1-3d STRONG {
   color: #ffffff;
 }
