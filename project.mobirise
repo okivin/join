@@ -5334,7 +5334,7 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>\"Olen järjestänyt solki.liven kautta useita asiakastapaamisia sekä ryhmäkokouksia ja -koulutuksia. Olen pitänyt myös webinaarin, ja käyttö oli tosi helppoa. Palvelu helpottaa ihmisten tapaamista, kun en itse omista autoa ollenkaan. Palvelu on helppokäyttöinen ja selkeä, sekä asiakaspalvelu on ollut nopeaa ja erinomaista. Suosittelen!\"</p>",
+              "text": "<p>\"I've done several online meetings and live groups with Solki. I've also hosted a webinar and was surprised how easy that was. Solki makes it easier to meet with my clients, since I don't own a car. Solki is very simple and easy to use and also the customer support has been excellent! Highly recommend Solki to everyone!\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/img-20180313-111440-417-128x160.jpg",
@@ -5351,7 +5351,7 @@
               "authorBio": "Head of Marketing"
             },
             {
-              "text": "<p>\"Olen pitänyt webinaareja ja niistä on jäänyt hyvä fiilis, vaikka olenkin ollut ensikertalainen webinaarien järjestämisessä. Solki.liven käyttö on helppoa ja selkeää. Pidän myös verkkokauppaa hyödyllisenä. Aion pitää kahdenkeskisiä konsultointeja, ryhmäopetuksia ja infowebinaareja jatkossakin! Asiakaspalvelu on ollut kattavaa ja riittävää.\"&nbsp;</p>",
+              "text": "<p>I've hosted webinars and felt good about them, even though I'm a first timer with webinars. Using Solki is very easy and simple. I like the idea that I can actually sell my services through Solki! I will do 1-one-1 consultations, live groups and webinars in the future, too! Customer support has been great.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/pirita2-160x160.png",
@@ -5368,7 +5368,7 @@
               "authorBio": "Personal Trainer"
             },
             {
-              "text": "<p>\"Erittäin selkeä ja helppokäyttöinen palvelu, sekä asiakastuki on ollut kattavaa. Solki.live -palvelu voisi toimia hyvin markkinoinnin ja myynnin tukena. Erityisesti asiantuntijapalveluiden tarjoaminen ja markkinoiminen voisi toimia hyvin Solki.live:n avulla. Pidän jatkossakin webinaareja ja tarjoan konsultointipalveluja kahden kesken.\"</p>",
+              "text": "<p>\"The easiest software I've ever used in online meetings. Solki could work well in sales and marketing. Specially offering professional services and marketing them with Solki is an advantage for our company. I will keep hosting webinars and do 1-one-1 consulting more and more with Solki.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/ellu-160x160.jpg",
@@ -5385,7 +5385,7 @@
               "authorBio": "Account manager, Personal Trainer"
             },
             {
-              "text": "<p>\"Pidän ilmaisia sekä maksullisia webinaareja, tallennan ne ja myyn tallenteet koulutuksina eteenpäin. Webinaarien pidossa voin pitää myös kesälomaa, koska solki.livessä maksan vain siitä, mitä käytän. Noin 1/3 kuukausittaisesta liikevaihdostani tulee solki.liven kautta.\" <a href=\"page1.html\">Lue Tilitoimisto Finansian koko asiakaskertomus täällä!</a></p>",
+              "text": "<p>\"Currently I'm doing 50% free webinars and for the rest 50% I'm doing paid webinars, record them and sell afterwards. All that can be done with Solki! One third of my revenue is coming from Solki. I like Solki's pricing model, which is that I only pay for what I use it.\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/user-id-612-profile-image-15121228232012833000-160x160.jpg",
@@ -5402,7 +5402,7 @@
               "authorBio": "Accountant"
             },
             {
-              "text": "<p>“Solki toimii kahdenkeskisessä etäterapiassa ja webinaarien pidossa hyvin. Palvelun käyttö on helppoa ja selkeää sekä asiakaspalvelu on ollut kattavaa ja riittävää. Suosittelen muillekin terapeuteille!”</p>",
+              "text": "<p>\"Solki works great in 1-one-1 therapy and webinars. I'm amazed how easy it is to use, and I can always count on the customer support if I ever face any problems! I recommend Solki for other therapists too!\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/hilli-samuel-121x160.jpg",
@@ -5419,7 +5419,7 @@
               "authorBio": "Therapist, psychiatric nurse"
             },
             {
-              "text": "<p>\"Solki.live on hyvä vaihtoehto potilastapaamisiin, jotka eivät vaadi potilaan fyysistä läsnäoloa toimistollani tai minun matkustamista potilaan kotiin. Asiakaspalvelu on ollut kattavaa ja riittävää. Suosittelen Solkea myös kollegoilleni!\"</p>",
+              "text": "<p>\"Solki is a great alternative for physical meetings that don't require travelling for me or my patients. Customer support has helped me a lot along the way. I will recommend Solki to my colleagues aswell!\"</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/minnak-1-160x160.jpg",
@@ -5433,7 +5433,7 @@
                 }
               },
               "authorName": "Minna K.",
-              "authorBio": "Erikoissairaanhoito, Kuntoutusohjaaja"
+              "authorBio": "Counselor"
             }
           ],
           "_params": {
@@ -5711,12 +5711,12 @@
           "title": "Hinnoitteluesimerkkejä",
           "subtitle": "Maksat vain käytöstä - <b>MUISTA että SINÄ voit laskuttaa asiakasta suoraan solki.livessä!</b>",
           "label1": "HOT!",
-          "title1": "Webinaarit",
+          "title1": "Webinars",
           "subtitle1": "Max 5000 katsojaa",
           "currency1": "",
           "price1": "0",
-          "period1": "€/kk.",
-          "description1": "Maksat vain käytöstä",
+          "period1": "/month",
+          "description1": "Pay as you go",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Hinnat alk. 6,30€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos tapahtuma on maksullinen)</li></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>",
           "label2": "HOT!",
@@ -5724,8 +5724,8 @@
           "subtitle2": "Sinä ja asiakkaasi",
           "currency2": "",
           "price2": "0",
-          "period2": "€/kk.",
-          "description2": "Maksat vain käytöstä",
+          "period2": "/month",
+          "description2": "Pay as you go",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">1,50€/tunti</li><li class=\"list-group-item\">15€/10 tuntia</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
           "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>",
           "label3": "HOT!",
@@ -5733,8 +5733,8 @@
           "subtitle3": "Sinä + 24 osallistujaa",
           "currency3": "",
           "price3": "0",
-          "period3": "€/kk.",
-          "description3": "Maksat vain käytöstä",
+          "period3": "/month",
+          "description3": "Pay as you go",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">6 osallistujaa, 30min=9€</li><li class=\"list-group-item\">10 osallist., 60min = 54€</li><li class=\"list-group-item\">Tallennus 5€/tunti</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen tapahtuma)</li></ul>",
           "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>",
           "label4": "HOT!",
@@ -5742,8 +5742,8 @@
           "subtitle4": "JOS haluat myydä videoita",
           "currency4": "",
           "price4": "10",
-          "period4": "€/kk.",
-          "description4": "Laskutetaan 3kk jaksoissa",
+          "period4": "/month",
+          "description4": "Charged in 3 month periods",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Jos et tarvitse, et maksa</li><li class=\"list-group-item\">Myy videot ja tallenteet</li><li class=\"list-group-item\">Julkiset/yksityiset videot</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen video)</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>",
           "_anchor": "pricing-table2-59"
