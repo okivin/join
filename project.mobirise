@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "english.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -31,7 +31,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 170,
+    "uniqCompNum": 192,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -905,7 +905,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -1773,7 +1773,7 @@
       "settings": {
         "meta_descr": "Lue, miten yksityisyrittäjä tienaa 1/3 liikevaihdostaan järjestämällä webinaareja ja myymällä tallenteita. Webinaari, etätapaaminen, tilitoimisto, solki.live, verkkokurssi, verkkokauppa",
         "title": "Yksityisyrittäjän liikevaihdosta 1/3 tulee solki.liven kautta",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -2269,7 +2269,7 @@
       "settings": {
         "meta_descr": "Valmentaja/kouluttaja Riikka Hovi tapaa asiakkaitaan ajasta ja paikasta riippumatta, myymällä verkkokursseja. Suunnitelmissa on myös webinaarit, ryhmäkoulutukset ja kahdenkeskiset koulutukset.",
         "title": "Miten asiakkaita tavoitetaan ajasta ja paikasta riippumatta?",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -2698,7 +2698,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -3487,7 +3487,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
         },
         {
           "_styles": {
@@ -4277,7 +4277,7 @@
         }
       ]
     },
-    "solki.english": {
+    "english.html": {
       "settings": {
         "title": "Meet your customers and patients securely with Solki",
         "meta_descr": "Meet your patients safely online like doctors, therapists and many others do! Online meetings and events. ",
@@ -4302,7 +4302,6 @@
               "font-size": "22px"
             }
           },
-          "_anchor": "header1-2r",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -4324,7 +4323,8 @@
           },
           "title": "Want to meet your customers online?<br><br>",
           "text": "At Solki.live we make it easy, safe and affordable to meet your patients and customers via live video",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Schedule a free demo</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Schedule a free demo</a>",
+          "_anchor": "header1-4q"
         },
         {
           "_styles": {
@@ -4336,7 +4336,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2s",
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -4344,7 +4343,8 @@
             "bgColor": "#fff"
           },
           "title": "Why?",
-          "meta": "Why should I use Solki.live?"
+          "meta": "Why should I use Solki.live?",
+          "_anchor": "header3-4r"
         },
         {
           "_inherit": "features4",
@@ -4361,7 +4361,6 @@
             }
           },
           "_name": "features7",
-          "_anchor": "features7-2t",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -4477,7 +4476,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features7-4s"
         },
         {
           "_styles": {
@@ -4493,7 +4493,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2v",
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
@@ -4501,14 +4500,14 @@
             "bgColor": "#26a69a"
           },
           "title": "Solki.live on media:",
-          "meta": ""
+          "meta": "",
+          "_anchor": "header3-4t"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-2w",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -4613,7 +4612,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features3-4u"
         },
         {
           "_tags": [
@@ -4632,13 +4632,13 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
-          "_anchor": "content1-2x",
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgColor": "#efefef"
           },
-          "text": "<p><b>What? </b>Solki.live is a platform, where you can organize webinars, interactive groups or one-on-one consultations. You can record everything and we offer a storage for your recordings. You can charge from your online events or videos.</p><p><br></p><p><b>Why? </b>In the first place, Solki.live was established because we found out that the kids in Finland have to wait months or years to see a therapist. We wanted to change that, and now Solki is used by various professionals and experts.</p><p><br></p><p>You (or your customer) don't have to download any add-ons or plugins. Solki.live works in your browser.</p>"
+          "text": "<p><b>What? </b>Solki.live is a platform, where you can organize webinars, interactive groups or one-on-one consultations. You can record everything and we offer a storage for your recordings. You can charge from your online events or videos.</p><p><br></p><p><b>Why? </b>In the first place, Solki.live was established because we found out that the kids in Finland have to wait months or years to see a therapist. We wanted to change that, and now Solki is used by various professionals and experts.</p><p><br></p><p>You (or your customer) don't have to download any add-ons or plugins. Solki.live works in your browser.</p>",
+          "_anchor": "content1-4v"
         },
         {
           "_styles": {
@@ -4654,7 +4654,6 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-2y",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -4767,7 +4766,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features4-4w"
         },
         {
           "_tags": [
@@ -4779,7 +4779,6 @@
               "color": "#232323"
             }
           },
-          "_anchor": "form1-3v",
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
@@ -4824,7 +4823,8 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "_anchor": "form1-4x"
         },
         {
           "_inherit": "msg-box5",
@@ -4832,7 +4832,6 @@
             "Theme"
           ],
           "_name": "msg-box4",
-          "_anchor": "msg-box4-30",
           "_params": {
             "showTitle": true,
             "showText": false,
@@ -4874,7 +4873,8 @@
           },
           "title": "How easy it is to use Solki? Watch the video!",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_anchor": "msg-box4-4y"
         },
         {
           "_inherit": "msg-box8",
@@ -4890,7 +4890,6 @@
             "Theme"
           ],
           "_name": "msg-box3",
-          "_anchor": "msg-box3-31",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -4912,11 +4911,11 @@
           },
           "title": "How is Solki different from any other live video tool?<br>",
           "text": "<p>Solki.live is an all-in-one tool including webinars, interactive live groups and one-to-one consultations. You can charge every customer directly on Solki, record your live sessions and sell them. Also our pricing model is different; you pay only for what you use! You are also able to let your customer(s) or viewers into your session with just one click without even registering (Anonymous login).</p><p>You can leave your contact information and I will be on touch with you very soon. What you have to lose?</p><p><b>Try it (100% risk-free!)</b></p>",
-          "button": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Try it for free</a>"
+          "button": " <a data-app-btn=\"true\" class=\"btn btn-info\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Try it for free</a>",
+          "_anchor": "msg-box3-4z"
         },
         {
           "_name": "footer1",
-          "_anchor": "footer1-32",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -4929,7 +4928,8 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita"
+          "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita",
+          "_anchor": "footer1-50"
         },
         {
           "_inherit": "menu",
@@ -4985,7 +4985,6 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-33",
           "_params": {
             "logo": false,
             "showBrand": true,
@@ -5018,7 +5017,8 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>",
+          "_anchor": "ext_menu-51"
         },
         {
           "_styles": {
@@ -5030,7 +5030,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-34",
           "_params": {
             "showMeta": false,
             "paddingTop": "3",
@@ -5038,7 +5037,8 @@
             "bgColor": "#efefef"
           },
           "title": "This is how Solki works:",
-          "meta": ""
+          "meta": "",
+          "_anchor": "header3-52"
         },
         {
           "_styles": {
@@ -5054,7 +5054,6 @@
             "Theme"
           ],
           "_name": "features4",
-          "_anchor": "features4-35",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -5175,7 +5174,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features4-53"
         },
         {
           "_styles": {
@@ -5191,7 +5191,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-36",
           "_params": {
             "showMeta": false,
             "paddingTop": "3",
@@ -5199,12 +5198,12 @@
             "bgColor": "#fff"
           },
           "title": "<p>Solki.live is the easiest, fastest and most efficient!<br><i></i></p>",
-          "meta": ""
+          "meta": "",
+          "_anchor": "header3-54"
         },
         {
           "_inherit": "features3",
           "_name": "features6",
-          "_anchor": "features6-37",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -5325,7 +5324,8 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_anchor": "features6-55"
         },
         {
           "_tags": [
@@ -5436,7 +5436,6 @@
               "authorBio": "Erikoissairaanhoito, Kuntoutusohjaaja"
             }
           ],
-          "_anchor": "testimonials2-38",
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -5456,7 +5455,8 @@
             "overlayOpacity": 0.2
           },
           "title": "Mitä käyttäjät sanovat solki.livestä?",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_anchor": "testimonials2-56"
         },
         {
           "_styles": {
@@ -5472,7 +5472,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-39",
           "_params": {
             "showMeta": true,
             "paddingTop": 1,
@@ -5480,7 +5479,8 @@
             "bgColor": "#26a69a"
           },
           "title": "Tutustu asiakastapauksiin:",
-          "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a>"
+          "meta": "<a href=\"page1.html\">Tilitoimisto Finansia Ky</a>",
+          "_anchor": "header3-57"
         },
         {
           "_inherit": "testimonials1",
@@ -5624,7 +5624,6 @@
               "authorBio": "Developer"
             }
           ],
-          "_anchor": "testimonials3-3a",
           "_params": {
             "showTitle": true,
             "showSubtitle": false,
@@ -5644,7 +5643,8 @@
             "overlayOpacity": "0.4"
           },
           "title": "Lisää palautetta mahtavilta käyttäjiltämme:",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_anchor": "testimonials3-58"
         },
         {
           "_inherit": "pricing-table1",
@@ -5685,7 +5685,6 @@
             "Theme"
           ],
           "_name": "pricing-table2",
-          "_anchor": "pricing-table2-3b",
           "_params": {
             "showTitle": true,
             "showSubtitle": true,
@@ -5746,7 +5745,8 @@
           "period4": "€/kk.",
           "description4": "Laskutetaan 3kk jaksoissa",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Jos et tarvitse, et maksa</li><li class=\"list-group-item\">Myy videot ja tallenteet</li><li class=\"list-group-item\">Julkiset/yksityiset videot</li><li class=\"list-group-item\">Transaktiomaksu 9% (jos maksullinen video)</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#form1-1b\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">Pyydä hinnasto</a>",
+          "_anchor": "pricing-table2-59"
         },
         {
           "_tags": [
@@ -5758,7 +5758,6 @@
               "font-size": "25px"
             }
           },
-          "_anchor": "msg-box1-3c",
           "_params": {
             "showTitle": true,
             "showText": false,
@@ -5781,195 +5780,8 @@
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">Contact</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "Looking for a different pricing solution? Contact us!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "STRONG": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "contacts1-3d",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26a69a",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "info",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true,
-              "color": "#ffffff"
-            }
-          },
-          "text1": "<strong>Yritys</strong><br>Y-tunnus: 263929-4",
-          "text2": "<strong>Yhteys</strong><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPuhelin: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
-          "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
-        }
-      ]
-    },
-    "solki-english.html": {
-      "settings": {
-        "meta_descr": "Do as the doctors, therapists and other professionals are doing - meet your customers and patients with video!",
-        "title": "Meet your customers with highly secured video meetings",
-        "order": 1
-      },
-      "components": [
-        {
-          "_name": "footer1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#323232",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita",
-          "_anchor": "footer1-4m"
-        },
-        {
-          "_inherit": "menu",
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-family": "'Montserrat', sans-serif"
-            },
-            ".link": {
-              "font-size": "0.95rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.029rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1c7d74"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#239a8e!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#26a69a"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#26a69a",
-            "fontSize": "0.95",
-            "fontName": {
-              "name": "Montserrat",
-              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "css": "'Montserrat', sans-serif"
-            },
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">solki.live</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-d\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#testimonials2-2l\">Asiakaspalautteet</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table2-1s\">Hinnoittelu</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#bottom\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Kirjaudu/rekisteröidy</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Kirjaudu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#bottom\" aria-expanded=\"false\">Rekisteröidy</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"join.solki.live.html#contacts1-f\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/instructorregister\">Rekisteröidy</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://solki.live/login\">Kirjaudu sisään</a></li>",
-          "_anchor": "ext_menu-4n"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
-          },
-          "title": "VIDEO BACKGROUND",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-4p"
+          "title": "Looking for a different pricing solution? Contact us!",
+          "_anchor": "msg-box1-5a"
         },
         {
           "_tags": [
@@ -6012,7 +5824,7 @@
           "text1": "<strong>Yritys</strong><br>Y-tunnus: 263929-4",
           "text2": "<strong>Yhteys</strong><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPuhelin: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
           "text3": "<p><strong>Linkit</strong><br>\n<a href=\"https://solki.live/quick-info\" target=\"_blank\" class=\"text-white\">Käyttöehdot, video-ohjeet</a></p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
-          "_anchor": "contacts1-4o"
+          "_anchor": "contacts1-5b"
         }
       ]
     }
