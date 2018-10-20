@@ -431,8 +431,9 @@ h6,
   color: #fff;
 }
 #msg-box2-5e .mbr-section-subtitle {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
+  font-size: 20px;
 }
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {

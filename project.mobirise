@@ -101,8 +101,9 @@
               "color": "#fff"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff",
-              "text-align": "left"
+              "color": "#000000",
+              "text-align": "left",
+              "font-size": "20px"
             }
           },
           "_params": {
@@ -126,8 +127,8 @@
             "overlayOpacity": 0.5
           },
           "title": "Solki sote-alalla, lue lisää!",
-          "text": "Tiesitkö, Solki.liven avulla toteutetaan paljon erilaisia sote-alan tilaisuuksia",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Solki sote-alalla, lue lisää</a>",
+          "text": "Tiesitkö, Solki.liven avulla toteutetaan paljon erilaisia sote-alan tilaisuuksia ja asiakastapaamisia. Lue lisä linkistä!",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"solki-sote-alalle-eta-laakari-terapia.html#header1-3w\" data-toolbar=\"-mbrBtnMove\">Solki sote-alalla, lue lisää</a>",
           "_tags": [
             "Theme"
           ],
