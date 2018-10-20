@@ -427,6 +427,13 @@ h6,
   font-family: 'Montserrat', sans-serif;
   font-size: 22px;
 }
+#msg-box2-5e .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-5e .mbr-section-subtitle {
+  color: #ffffff;
+  text-align: left;
+}
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
