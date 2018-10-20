@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -2756,10 +2756,10 @@
             ".mbr-section-lead": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "22px"
+              "font-size": "23px"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "25px"
+              "font-size": "30px"
             }
           },
           "_anchor": "header1-3w",
