@@ -108,7 +108,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true,
             "inverse": false,
             "paddingTop": "2",
