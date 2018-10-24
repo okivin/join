@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
+    "currentPage": "english.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -402,7 +402,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -480,13 +480,16 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-1-600x377.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
+              "alt": "",
+              "title": ""
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\">GNF: Solki provides..</a>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2985,7 +2988,7 @@
             "showButtons": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3064,13 +3067,17 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-2-600x377.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title5": "Trendy Website Blocks",
+          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\" class=\"text-info\">GNF: Solki provides..</a>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -4566,7 +4573,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "columns": "4",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4592,7 +4599,7 @@
             }
           },
           "title1": "YLE",
-          "subtitle1": "Click the image to read the news (in Finnish)",
+          "subtitle1": "Click the image to read the article (in Finnish)",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -4607,7 +4614,7 @@
             }
           },
           "title2": "<p>Satakunnan kansa</p>",
-          "subtitle2": "Click the image to read the news (in Finnish)",
+          "subtitle2": "Click the image to read the article (in Finnish)",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -4623,7 +4630,7 @@
             }
           },
           "title3": "Suomen Yrittäjät",
-          "subtitle3": "Click the image to read the news (in Finnish)",
+          "subtitle3": "Click the image to read the article (in Finnish)",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -4639,19 +4646,23 @@
             }
           },
           "title4": "Iltalehti",
-          "subtitle4": "Click the image to read the news (in Finnish)",
+          "subtitle4": "Click the image to read the article (in Finnish)",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-3-600x377.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
+          "title5": "GoodNewsFinland",
+          "subtitle5": "Click the image to read the article",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
