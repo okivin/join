@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "personal-trainer-myy-enemman-ja-helpommin.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -31,7 +31,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 195,
+    "uniqCompNum": 243,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -1819,7 +1819,7 @@
       "settings": {
         "meta_descr": "Lue, miten yksityisyrittäjä tienaa 1/3 liikevaihdostaan järjestämällä webinaareja ja myymällä tallenteita. Webinaari, etätapaaminen, tilitoimisto, solki.live, verkkokurssi, verkkokauppa",
         "title": "Yksityisyrittäjän liikevaihdosta 1/3 tulee solki.liven kautta",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2315,7 +2315,7 @@
       "settings": {
         "meta_descr": "Valmentaja/kouluttaja Riikka Hovi tapaa asiakkaitaan ajasta ja paikasta riippumatta, myymällä verkkokursseja. Suunnitelmissa on myös webinaarit, ryhmäkoulutukset ja kahdenkeskiset koulutukset.",
         "title": "Miten asiakkaita tavoitetaan ajasta ja paikasta riippumatta?",
-        "order": 2
+        "order": 4
       },
       "components": [
         {
@@ -2744,7 +2744,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -4338,7 +4338,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 5
+        "order": 1
       },
       "components": [
         {
@@ -5865,6 +5865,858 @@
           "text2": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPhone: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
           "text3": "<p><strong>Links</strong><br>Quick info</p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
           "_anchor": "contacts1-5b"
+        }
+      ]
+    },
+    "miten-jarjestaa-webinaari-ja-verkkotapaaminen.html": {
+      "settings": {
+        "meta_descr": "Miten järjestää webinaari tai tavata asiakas videon välityksellä verkossa",
+        "title": "Miten järjestää webinaari ja verkkotapaaminen",
+        "order": 6
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita",
+          "_anchor": "footer1-65"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoooo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOLKI.LIVE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content6-2f\">Usein kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page1.html#form1-28\">OTA YHTEYTTÄ</a></li>",
+          "_anchor": "menu-66"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/0-1-1400x533.png",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Valmentaja Riikka Hovi tapaa asiakkaitaan ajasta ja paikasta riippumatta.",
+          "text": "<p><i>\"Kuukausittaisesta liikevaihdostani jo noin 1/3 tulee Solki.liven kautta\"</i></p><p>Lue koko palaute alta!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-67"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Yritysvalmentaja Riikka Hovi, Anondo Oy</b></p><p>\n</p><p><br></p><p><b>Mistä lähti ajatus verkkokurssien järjestämiseen?</b></p><p><br></p><p>- Tavoite muodostaa osa liikevaihdosta verkkoliiketoiminnasta niin, ettei se aina vaadi fyysistä\n</p><p>läsnäoloa asiakkaan kanssa.</p><p><br></p><p><b>Miksi valitsitte solki.liven (mitä eroavaisuuksia olette huomanneet käytössä muihin vastaaviin)?</b></p><p><br></p><p>- Olin kuullut yrittäjäkollegalta positiivista palautetta solki.livestä.\n</p><p>Lisäksi arvostan aktiivista ja joustavaa asennetta yhteistyökumppanilta, jotta solki on saatu\n</p><p>palvelemaan minun yritykseni tarpeita.</p><p><br></p><p><b>Mitä muita käyttötarkoituksia näette solki.livellä olevan alallanne (muuta kuin verkkokurssien myyntiä)?</b></p><p><br></p><p>- Webinaareja, ryhmämentorointeja sekä kahdenkeskisiä koulutuksia.</p><p><b><br></b></p><p><b>Mitä mieltä olet käyttöliittymästä (onko se helppo ja selkeä vai hankalaa)?</b></p><p><br></p><p>- Käyttöliittymä on selkeä ja helppokäyttöinen.</p><p><br></p><p><b>Mitä mieltä olet hinnoittelusta?</b></p><p><br></p><p>- Hinnoittelu on kilpailukykyinen.</p><p><b><br></b></p><p><b>Mitä asiakkaanne ovat tykänneet solki.livestä tai verkkokursseistanne?</b></p><p><b><br></b></p><p>- Asiakkaat ovat kuvanneet Solkea selkeäksi ja helppokäyttöiseksi.</p><p><br></p><p><b>Minkälainen on mielestänne asiakaspalvelun ja -tuen laatu?</b></p><p><b><br></b></p><p>- Erinomainen, nopea, ratkaisukeskeinen.</p><p><b><br></b></p><p><b>Suosittelisitko solki.liveä muille kouluttajille/valmentajille?\n</b></p><p><b><br></b></p><p>- Kyllä ja olen solki.livestä aina kertonutkin, kun siihen on tullut luonteva mahdollisuus.\n</p><p><br></p><p><b>Millaisia vinkkejä antaisit toisille valmentajille, jotka haluaisivat alkaa myymään verkossa kursseja\n</b></p><p><b>tai pitämään etätapaamisia?\n</b></p><p><br></p><p>- Tiedän, että monella yrittäjällä on kynnys siirtää osaamistaan verkkoon. Todella moni\n</p><p>kuitenkin toivoo parempaa liikevaihtoa ja mahdollista ajasta ja paikasta riippumatonta\n</p><p>myyntiä. Tekniikka on yksi iso asia, joka askarruttaa mieltä.</p><p><br></p><p>\n</p><p>Solki.liveä kannattaa kokeilla ja todeta itse sen helppokäyttöisyys. Tässä palvelussa tekniikka\n</p><p>ei asetu esteeksi, vaan myynnin pääsee aloittamaan nopeastikin Solki.liven kautta.</p><p><br></p>",
+          "_anchor": "content1-68"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/PN-GiPWrenM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Katso videolta, miten solki.live toimii!",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Haluan kuulla lisää!</a>",
+          "_anchor": "msg-box4-69"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kiinnostuitko? Ota yhteyttä!<br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "olli.kivin@gmail.com",
+            "alerts": {
+              "success": "Kiitos yhteydenotostasi! Olemme sinuun pian yhteydessä."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nimi*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Puhelin"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Viesti:"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä viesti</a>",
+          "_anchor": "form1-6a"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
+          "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
+          "title": "PRE MADE BLOCKS",
+          "_anchor": "msg-box1-6b"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Usein kysytyt kysymykset",
+          "meta": "By John Smith posted July 20, 2016",
+          "_anchor": "header3-6c"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Mitä Solki.liven käyttöönotto vaatii?</b></p><p>- Se vaatii vain rekisteröitymisen palveluun. Rekisteröityminen on maksutonta ja onnistuu täällä: <a href=\"https://solki.live/instructorregister\" class=\"text-info\">https://solki.live/instructorregister</a></p><p><b>Maksaako rekisteröityminen jotain?</b></p><p>- Ei maksa. Vain ohjelmiston käyttö (webinaarien tai muiden etätapaamisten järjestäminen) maksaa.</p><p><b>En ole tietoteknisesti osaava henkilö. Osaanko silti käyttää solkea?</b></p><p>- Osaat ihan varmasti! Koulutan sinulle miten ohjelmisto toimii, ja ohjeideni avulla onnistut varmasti.&nbsp;</p><p><b>Ajattelin järjestää webinaareja vain harvoin. Tuleeko siitä ylimääräisiä kuluja?</b></p><p>- Kuluja tulee vain jos järjestät tapahtumia. Sinua ei laskuteta, mikäli et järjestä tapahtumia.</p>",
+          "text2": "<p><b>Vaatiiko palvelu hankalia asennuksia omalle tietokoneelle?</b></p><p>- Sinun ei tarvitse asentaa tai ladata tietokoneellesi mitään, solki.live toimii suoraan internet-selaimessa.</p><p><b>Haluaisin mahdollisesti tallentaa omia webinaareja ja muita tapahtumia. Onnistuuko se?</b></p><p>- Onnistuu! Voit tallentaa kaikki tapahtumat, joita järjestät palvelussa. Tarjoamme tallenteillesi myös kauppapaikan, jossa voit myydä tallenteita.&nbsp;</p><p><b>Voinko laskuttaa jo pelkästään webinaariini liittymisestä?</b></p><p>- Kyllä voit. Käytössä ovat kotimaiset maksupainikkeet, ja voit laskuttaa asiakastasi, kun he liittyvät webinaariisi.</p><p><b>Onko tämä myös asiakkaalle helppokäyttöinen palvelu?</b></p><p>- Ehdottomasti! Olemme tehneet siitä niin helppoa kuin mahdollista. Asiakas voidaan päästää mukaan suoraan osallistumislinkkiä klikkaamalla.</p>",
+          "_anchor": "content6-6d"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Kokeile ilmaiseksi!</a>",
+          "_anchor": "msg-box3-6e"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Company</b></span></font><br>FI 263929-4",
+          "text2": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPhone: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
+          "text3": "<p><strong>Links</strong><br>Quick info</p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_anchor": "contacts1-6f"
+        }
+      ]
+    },
+    "personal-trainer-myy-enemman-ja-helpommin.html": {
+      "settings": {
+        "meta_descr": "Personal trainer myy enemmän ja helpommin jakamalla palvelujaan useampaan paikkaan yhdellä kerralla",
+        "title": "Personal trainer myy enemmän ja helpommin",
+        "order": 5
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Solki.live ja Sportietown.com ovat Sportie United Oy:n tuotteita",
+          "_anchor": "footer1-6g"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logoooo-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SOLKI.LIVE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content6-2f\">Usein kysytyt kysymykset</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"page1.html#form1-28\">OTA YHTEYTTÄ</a></li>",
+          "_anchor": "menu-6h"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/014c4a-18a68d7bd37d461e82ad159d3a2fd74c-mv2-1278x682.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Personal trainerit ja joogaopettajat Sonja &amp; Hanna hyödyntävät webinaareja liiketoiminnassaan",
+          "text": "<p><i>\"Kuukausittaisesta liikevaihdostani jo noin 1/3 tulee Solki.liven kautta\"</i></p><p>Lue koko palaute alta!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_anchor": "msg-box8-6i"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Joogaopettaja Sonja Hannus, VIRTA well-being</b></p><p>\n</p><p><br></p><p><b>Mistä lähti ajatus webinaarien järjestämiseen?</b></p><p><br></p><p>- Tarvitsimme tavan välittää asiakkaalle ohjaamiamme joogatunteja myös asiakkaan muihin toimistoihin, jotka sijaitsevat ympäri Suomea.\n</p><p><br></p><p><b>Miksi valitsitte solki.liven (mitä eroavaisuuksia olette huomanneet käytössä muihin vastaaviin)?</b></p><p><br></p><p>-&nbsp;<span style=\"font-size: 1.07rem;\">Palvelu vaikutti kätevälle ja helppokäyttöiselle, samoin hinnoittelumalli toimii meille.</span></p><p><br></p><p><b>Mitä muita käyttötarkoituksia näette solki.livellä olevan alallanne (muuta kuin webinaareja)?</b></p><p><br></p><p>- Tulevaisuudessa järjestämme verkkokursseja asiakkaillemme eri hyvinvoinnin aihealueista.\n</p><p>Tulemme myös laajentamaan tarjontaamme konsultointipalveleuihin, jolloin liveyhteys asiakkaan\n</p><p>kanssa voi tulla tarpeeseen.\n</p><p><b><br></b></p><p><b>Mitä mieltä olet käyttöliittymästä (onko se helppo ja selkeä vai hankalaa)?</b></p><p><br></p><p>- Käyttöliittymä on selkeä ja helppokäyttöinen.</p><p><br></p><p><b>Mitä mieltä olet hinnoittelusta?</b></p><p><br></p><p>- Hinnoittelu on hyvä ja meille sopiva.</p><p><b><br></b></p><p><b>Mitä asiakkaanne ovat tykänneet solki.livestä tai webinaareistanne?</b></p><p><b><br></b></p><p>- Lähetykset ovat sujuneet hyvin ja mahdollistaneet enemmän osanottajia\n tunneillemme.</p><p><br></p><p><b>Kuinka paljon arvioitte webinaarien osuuden olevan liiketoimintaanne tulevaisuudessa?\n</b></p><p>- Karkea arvio on että 20% asiakastilaisuuksistamme voisi sisältää\n&nbsp;<span style=\"font-size: 1.07rem;\">myös livelähetyksen muualle. </span></p><p><span style=\"font-size: 1.07rem;\">Tallennuksia pyrimme tekemään ensi vuonna enemmän jotta&nbsp;</span><span style=\"font-size: 1.07rem;\">saamme tunnit talteen.&nbsp;</span></p><p><br></p><p><b>Minkälainen on mielestänne asiakaspalvelun ja -tuen laatu?</b></p><p><b><br></b></p><p>- Apua saa aina nopeasti\n.</p><p><b><br></b></p><p><b>Suosittelisitko solki.liveä muille kouluttajille/valmentajille?\n</b></p><p><b><br></b></p><p>- Kyllä!\n</p><p><br></p><p><b><span style=\"font-size: 1.07rem;\">Millaisia vinkkejä antaisit toisille hyvinvoinnin ammattilaisille, jotka haluaisivat alkaa myymään&nbsp;</span><br></b></p><p><b>verkossa kursseja tai pitämään etätapaamisia?\n</b></p><p>- Kaikkien pitää löytää se oma juttu ja jos skaalautuminen kiinnostaa niin\n</p><p>silloin jonkinlainen verkkolähetys/palveluformaatti on todennäköisesti tarpeellinen.\n</p><p><br></p>",
+          "_anchor": "content1-6j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/PN-GiPWrenM",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Katso videolta, miten solki.live toimii!",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Haluan kuulla lisää!</a>",
+          "_anchor": "msg-box4-6k"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#cccccc",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Kiinnostuitko? Ota yhteyttä!<br>",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "olli.kivin@gmail.com",
+            "alerts": {
+              "success": "Kiitos yhteydenotostasi! Olemme sinuun pian yhteydessä."
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Nimi*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Puhelin"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Viesti:"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Lähetä viesti</a>",
+          "_anchor": "form1-6l"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H2": {
+              "color": "#000000",
+              "font-size": "16px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
+          "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
+          "title": "PRE MADE BLOCKS",
+          "_anchor": "msg-box1-6m"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_params": {
+            "showMeta": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Usein kysytyt kysymykset",
+          "meta": "By John Smith posted July 20, 2016",
+          "_anchor": "header3-6n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Mitä Solki.liven käyttöönotto vaatii?</b></p><p>- Se vaatii vain rekisteröitymisen palveluun. Rekisteröityminen on maksutonta ja onnistuu täällä: <a href=\"https://solki.live/instructorregister\" class=\"text-info\">https://solki.live/instructorregister</a></p><p><b>Maksaako rekisteröityminen jotain?</b></p><p>- Ei maksa. Vain ohjelmiston käyttö (webinaarien tai muiden etätapaamisten järjestäminen) maksaa.</p><p><b>En ole tietoteknisesti osaava henkilö. Osaanko silti käyttää solkea?</b></p><p>- Osaat ihan varmasti! Koulutan sinulle miten ohjelmisto toimii, ja ohjeideni avulla onnistut varmasti.&nbsp;</p><p><b>Ajattelin järjestää webinaareja vain harvoin. Tuleeko siitä ylimääräisiä kuluja?</b></p><p>- Kuluja tulee vain jos järjestät tapahtumia. Sinua ei laskuteta, mikäli et järjestä tapahtumia.</p>",
+          "text2": "<p><b>Vaatiiko palvelu hankalia asennuksia omalle tietokoneelle?</b></p><p>- Sinun ei tarvitse asentaa tai ladata tietokoneellesi mitään, solki.live toimii suoraan internet-selaimessa.</p><p><b>Haluaisin mahdollisesti tallentaa omia webinaareja ja muita tapahtumia. Onnistuuko se?</b></p><p>- Onnistuu! Voit tallentaa kaikki tapahtumat, joita järjestät palvelussa. Tarjoamme tallenteillesi myös kauppapaikan, jossa voit myydä tallenteita.&nbsp;</p><p><b>Voinko laskuttaa jo pelkästään webinaariini liittymisestä?</b></p><p>- Kyllä voit. Käytössä ovat kotimaiset maksupainikkeet, ja voit laskuttaa asiakastasi, kun he liittyvät webinaariisi.</p><p><b>Onko tämä myös asiakkaalle helppokäyttöinen palvelu?</b></p><p>- Ehdottomasti! Olemme tehneet siitä niin helppoa kuin mahdollista. Asiakas voidaan päästää mukaan suoraan osallistumislinkkiä klikkaamalla.</p>",
+          "_anchor": "content6-6o"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"page1.html#form1-28\" data-toolbar=\"-mbrBtnMove\">Kokeile ilmaiseksi!</a>",
+          "_anchor": "msg-box3-6p"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "text1": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Company</b></span></font><br>FI 263929-4",
+          "text2": "<font face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Contact</b></span></font><br>\nEmail: <a href=\"mailto:olli.kivin@live.com\">olli.kivin@live.com</a><br>\nPhone: <a href=\"tel:+358503271088\">+358 50 327 1088</a><br><br>",
+          "text3": "<p><strong>Links</strong><br>Quick info</p><p><a href=\"https://solki.live/public/media/K%C3%A4ytt%C3%B6ehdot%20-%20Terms%20Of%20Use.pdf\" target=\"_blank\"><br></a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>",
+          "_anchor": "contacts1-6q"
         }
       ]
     }
