@@ -453,6 +453,10 @@ h6,
 #msg-box8-2m .mbr-section-title {
   color: #ffffff;
 }
+#msg-box3-6s .mbr-section-title,
+#msg-box3-6s p {
+  color: #000;
+}
 #msg-box8-3q .mbr-section-title,
 #msg-box8-3q p {
   color: #fff;

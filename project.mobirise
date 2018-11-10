@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "personal-trainer-myy-enemman-ja-helpommin.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -31,7 +31,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 243,
+    "uniqCompNum": 245,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -324,6 +324,41 @@
           "title": "Yksityisyrittäjän liikevaihdosta jo 1/3 tulee Solki.liven kautta",
           "text": "<p>Lue Riikan tarina - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Lue Riikan tarina ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/014c4a-18a68d7bd37d461e82ad159d3a2fd74c-mv2-1278x682.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Miten personal trainerit ja joogaopettajat hyödyntävät Solkea?",
+          "text": "<p>Lue, miten sinäkin voit hyötyä webinaareista ja muista verkkotapaamisista omassa työssäsi!</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"personal-trainer-myy-enemman-ja-helpommin.html\" data-toolbar=\"-mbrBtnMove\">Lue lisää (voit varata itsellesi myös maksuttoman alkukartoituksen)</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-6s"
         },
         {
           "_styles": {
