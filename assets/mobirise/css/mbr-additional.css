@@ -728,6 +728,10 @@ h6,
 #msg-box5-2k P {
   text-align: left;
 }
+#msg-box3-70 .mbr-section-title,
+#msg-box3-70 p {
+  color: #000;
+}
 #form1-28 .form-control-label {
   color: #232323;
 }
@@ -823,6 +827,10 @@ h6,
 }
 #msg-box8-3g .mbr-section-title {
   color: #ffffff;
+}
+#msg-box3-71 .mbr-section-title,
+#msg-box3-71 p {
+  color: #000;
 }
 #form1-3l .form-control-label {
   color: #232323;
@@ -1456,6 +1464,10 @@ h6,
 }
 #msg-box8-6i .mbr-section-title {
   color: #ffffff;
+}
+#msg-box3-72 .mbr-section-title,
+#msg-box3-72 p {
+  color: #000;
 }
 #form1-6l .form-control-label {
   color: #232323;
