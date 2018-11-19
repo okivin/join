@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "personal-trainer-myy-enemman-ja-helpommin.html",
+    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -140,6 +140,151 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "title": "Solki.live mediassa:",
+          "meta": "Tiesitkö, Solki.live on myös mukana 1000 autettua -hyväntekeväisyyskampanjassa!"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-1w",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7874046-2-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://yle.fi/uutiset/3-10193173",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "<a href=\"https://yle.fi/uutiset/3-10193173\" target=\"_blank\">YLE: Insinööri kauhistui...</a>",
+          "subtitle1": "",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/800px-satakunnan-kansa-wordmark.svg-600x173.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://goo.gl/TP4afc",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<p><a href=\"http://goo.gl/TP4afc\">SK: Ideasta kumpusi ilmaista...</a></p>",
+          "subtitle2": "Klikkaa logoa siirtyäksesi uutiseen",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sy-logo-rgb-vari-600x166.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\">Yrittäjät: Ravistelee terapian...</a>",
+          "subtitle3": "Klikkaa logoa siirtyäksesi uutiseen",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iltalehti-placeholder-image-1-600x366.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title4": "<a href=\"https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml\">IL: ..maailman eri kolkkiin..</a>",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-1-600x377.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\">GNF: Solki provides..</a>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/score-logo-1-320x240.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "<a href=\"https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html\">SCORE: Success Story</a>",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -149,9 +294,9 @@
           "_anchor": "header3-2q",
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
           },
           "title": "Miksi?",
           "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää? Miksi se on perustettu?&nbsp;"
@@ -181,7 +326,7 @@
             "iconsBgColor": "@primaryColor",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -245,18 +390,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#26a69a"
             }
           },
-          "title4": "Asiakkaat",
+          "title4": "Turvallisuutta ja asiakaspalvelua",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Asiakkaasi ovat anonyymejä Soljessa eikä heiltä vaadita rekisteröitymistä tai kirjautumista palveluun. Noudatamme Valviran säädöksiä ja otamme turvallisuuden vakavissamme. Jos sinulla on kysymyksiä mihin vain liittyen, voit ottaa meihin yhteyttä.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -400,147 +546,6 @@
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
           "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1x",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#efefef"
-          },
-          "title": "Solki.live mediassa:",
-          "meta": "Tiesitkö, Solki.live on myös mukana 1000 autettua -hyväntekeväisyyskampanjassa!"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-1w",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "columns": "5",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/7874046-2-600x338.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://yle.fi/uutiset/3-10193173",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title1": "<a href=\"https://yle.fi/uutiset/3-10193173\" target=\"_blank\">YLE: Insinööri kauhistui...</a>",
-          "subtitle1": "",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/800px-satakunnan-kansa-wordmark.svg-600x173.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://goo.gl/TP4afc",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title2": "<p><a href=\"http://goo.gl/TP4afc\">SK: Ideasta kumpusi ilmaista...</a></p>",
-          "subtitle2": "Klikkaa logoa siirtyäksesi uutiseen",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sy-logo-rgb-vari-600x166.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\">Yrittäjät: Ravistelee terapian...</a>",
-          "subtitle3": "Klikkaa logoa siirtyäksesi uutiseen",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/iltalehti-placeholder-image-1-600x366.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title4": "<a href=\"https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml\">IL: ..maailman eri kolkkiin..</a>",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-1-600x377.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\">GNF: Solki provides..</a>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1439,10 +1444,10 @@
               "authorBio": "Valmentaja/kouluttaja, Anondo Oy"
             },
             {
-              "text": "<p>\"Erittäin helppokäyttöinen, ei vaadi edes rekisteröitymistä\", Lauri, 24</p><p>\"Minun mielestäni helppo tapa vastaanottaa palveluja\", Satu, 38</p><p>\"Miksei tämä ole käytössä joka alalla?\", J-P, 50</p>",
+              "text": "Solki.liven kaltainen työkalu sopisi ehdttomasti alalleni (lääkäri) ja mielestäni käyttömahdollisuudet ovat rajattomat! Asiakaspalvelun ja -tuen laatu on ollut erinomaista ja palvelun käyttö on helppoa sekä selkeää. Suosittelen Solkea myös kollegoilleni esimerkiksi infowebinaarien pitoon, sellaiseen kuin järjestin itsekin <a href=\"https://www.1000autettua.com/tilaisuudet/kysy-yleisl%C3%A4%C3%A4k%C3%A4rilt%C3%A4\" class=\"text-success\">\"1000 autettua\" -kampanjassa!</a>",
               "media": {
                 "image": {
-                  "src": "@PROJECT_PATH@/assets/images/solkilogo-160x90.png",
+                  "src": "@PROJECT_PATH@/assets/images/marika-1-160x107.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
@@ -1452,8 +1457,8 @@
                   "title": ""
                 }
               },
-              "authorName": "Solki-käyttäjät",
-              "authorBio": "Palveluja vastaanottaneet Solki.liven kautta"
+              "authorName": "Marika Kandell",
+              "authorBio": "Lääkäri"
             }
           ],
           "_anchor": "testimonials2-2l",
@@ -3094,7 +3099,7 @@
             "showButtons": false,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -3189,13 +3194,17 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/score-logo-2-320x240.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "Host Anywhere",
+          "title6": "<a href=\"https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html\" class=\"text-info\">SCORE: Success Story</a>",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
@@ -4029,6 +4038,23 @@
               },
               "authorName": "Samuel Hilli",
               "authorBio": "Ratkaisukeskeinen terapeutti, Psykiatrinen sairaanhoitaja"
+            },
+            {
+              "authorName": "Marika Kandell",
+              "authorBio": "Lääkäri",
+              "text": "<p>Solki.liven kaltainen työkalu sopisi ehdttomasti alalleni (lääkäri) ja mielestäni käyttömahdollisuudet ovat rajattomat! Asiakaspalvelun ja -tuen laatu on ollut erinomaista ja palvelun käyttö on helppoa sekä selkeää. Suosittelen Solkea myös kollegoilleni esimerkiksi infowebinaarien pitoon, sellaiseen kuin järjestin itsekin \"1000 autettua\" -kampanjassa!</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/marika-2-160x107.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
             }
           ],
           "_anchor": "testimonials2-4f",
@@ -4038,7 +4064,7 @@
             "showImages": true,
             "showName": true,
             "showBio": true,
-            "count": "3",
+            "count": "4",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
