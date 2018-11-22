@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -796,7 +796,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://solki.live/quick-info\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"miten-jarjestaa-webinaari-ja-verkkotapaaminen.html\" data-toolbar=\"-mbrBtnMove\">Ota Solki heti käyttöön</a>",
           "text": "Voit ottaa Solki.liven myös heti käyttöösi oheisesta linkistä. Sinut ohjataan ohjesivulle,&nbsp;josta löytyy videoita rekisteröitymiseen ja livetapahtumien aloittamiseen.",
           "title": "PRE MADE BLOCKS"
         },
@@ -4532,7 +4532,7 @@
             "bgColor": "#fff"
           },
           "title": "Why use Solki?",
-          "meta": "Maybe you'd like to here it from people who's using Solki? - <a href=\"english.html#testimonials2-56\" class=\"text-black\">click here!</a>",
+          "meta": "Maybe you'd like to hear it from people who's using Solki? - <a href=\"english.html#testimonials2-56\" class=\"text-black\">click here!</a>",
           "_anchor": "header3-4r"
         },
         {
@@ -4559,7 +4559,7 @@
             "iconsBgColor": "@primaryColor",
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "3",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4623,18 +4623,19 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#26a69a"
             }
           },
-          "title4": "Asiakkaat",
+          "title4": "Secured meetings and customer support",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "caption4": "Your customer's information is safe, as we don't store any personal information. We also provde training and support to you when you need.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -4705,7 +4706,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -4799,14 +4800,18 @@
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/score-logo-3-320x240.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
+          "title6": "Score Success Story",
+          "subtitle6": "Click the image to read the article",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_anchor": "features3-4u"
