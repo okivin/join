@@ -1575,7 +1575,7 @@ h6,
   text-align: center;
 }
 #features2-7b .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #e25041;
+  background-color: #2969b0;
 }
 #features2-7b .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
@@ -1613,10 +1613,6 @@ h6,
 #msg-box3-7m .mbr-section-title,
 #msg-box3-7m p {
   color: #000;
-}
-#social-buttons3-7a .mbr-section-title,
-#social-buttons3-7a .btn-social {
-  color: #fff;
 }
 #contacts1-77 STRONG {
   color: #ffffff;

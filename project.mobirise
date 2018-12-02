@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "easy-secured-online-meetings-sing-up-for-free.html",
+    "currentPage": "easy-secured-online-meetings-sign-up-for-free.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -28,11 +28,12 @@
         "#424648",
         "#232323",
         "#26a69a",
-        "#f2f2f2"
+        "#f2f2f2",
+        "#2e2e2e"
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 280,
+    "uniqCompNum": 281,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -7163,7 +7164,7 @@
         }
       ]
     },
-    "easy-secured-online-meetings-sing-up-for-free.html": {
+    "easy-secured-online-meetings-sign-up-for-free.html": {
       "settings": {
         "meta_descr": "Easy and secured online meetings for healthcare professionals, doctors, therapists and counselors. Sign up for free!",
         "title": "Easy and secured e-meetings with Solki - Sign up!",
@@ -7609,7 +7610,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "columnsColor": "#e25041",
+            "columnsColor": "#2969b0",
             "paddingTop": 2,
             "paddingBottom": 2,
             "columns": 4,
@@ -7617,7 +7618,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2969b0",
+            "bgColor": "#e25041",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -7654,7 +7655,7 @@
           "_anchor": "features2-7b",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#e25041"
+              "background-color": "#2969b0"
             },
             ".mbr-cards-col:nth-child(even) .card-title": {
               "color": "#ffffff"
@@ -8233,12 +8234,6 @@
           "_anchor": "msg-box3-7m"
         },
         {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -8246,7 +8241,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -8256,12 +8251,12 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
+          "text": "SHARE THIS PAGE!",
           "_tags": [
             "Theme"
           ],
-          "text": "Share this page so more professionals can join!",
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-7a"
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-7s"
         },
         {
           "_tags": [
