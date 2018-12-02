@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "easy-secured-online-meetings-sign-up-for-free.html",
+    "currentPage": "english.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 281,
+    "uniqCompNum": 282,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -4610,8 +4610,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
           },
           "title": "Join our USA trial group?",
           "text": "<p>Solki is about to expand and we are looking for you to join the trial!</p>",
@@ -8235,8 +8235,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -8256,7 +8256,7 @@
             "Theme"
           ],
           "_name": "social-buttons1",
-          "_anchor": "social-buttons1-7s"
+          "_anchor": "social-buttons1-7t"
         },
         {
           "_tags": [
