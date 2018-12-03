@@ -4610,12 +4610,12 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.2"
+            "overlayColor": "#e25041",
+            "overlayOpacity": "0.5"
           },
           "title": "Join our USA trial group?",
           "text": "<p>Solki is about to expand and we are looking for you to join the trial!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read more and sign up for the trial!</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"easy-secured-online-meetings-sign-up-for-free.html\" data-toolbar=\"-mbrBtnMove\">Read more and sign up for the trial!</a>",
           "_tags": [
             "Theme"
           ],
