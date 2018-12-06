@@ -244,8 +244,8 @@
           "_anchor": "header3-1x",
           "_params": {
             "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgColor": "#efefef"
           },
           "title": "Solki.live mediassa:",
@@ -264,7 +264,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -290,7 +290,7 @@
               "title": ""
             }
           },
-          "title1": "<a href=\"https://yle.fi/uutiset/3-10193173\" target=\"_blank\">YLE: Insinööri kauhistui...</a>",
+          "title1": "<a href=\"https://yle.fi/uutiset/3-10193173\" target=\"_blank\" class=\"text-black\">YLE: Insinööri kauhistui...</a>",
           "subtitle1": "",
           "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -306,7 +306,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<p><a href=\"http://goo.gl/TP4afc\">SK: Ideasta kumpusi ilmaista...</a></p>",
+          "title2": "<p><a href=\"http://goo.gl/TP4afc\" class=\"text-black\">SK: Ideasta kumpusi ilmaista...</a></p>",
           "subtitle2": "Klikkaa logoa siirtyäksesi uutiseen",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -322,7 +322,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\">Yrittäjät: Ravistelee terapian...</a>",
+          "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\" class=\"text-black\">Yrittäjät: Ravistelee terapian...</a>",
           "subtitle3": "Klikkaa logoa siirtyäksesi uutiseen",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -337,7 +337,7 @@
               "title": ""
             }
           },
-          "title4": "<a href=\"https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml\">IL: ..maailman eri kolkkiin..</a>",
+          "title4": "<a href=\"https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml\" class=\"text-black\">IL: ..maailman eri kolkkiin..</a>",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -352,7 +352,7 @@
               "title": ""
             }
           },
-          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\">GNF: Solki provides..</a>",
+          "title5": "<a href=\"http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/\" class=\"text-black\">GNF: Solki provides..</a>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -368,7 +368,7 @@
               "linkInNewWindow": false
             }
           },
-          "title6": "<a href=\"https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html\">SCORE: Success Story</a>",
+          "title6": "<a href=\"https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html\" class=\"text-black\">SCORE: Success Story</a>",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
@@ -391,7 +391,7 @@
             "bgColor": "#efefef"
           },
           "title": "Miksi?",
-          "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää? Miksi se on perustettu?&nbsp;"
+          "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää?"
         },
         {
           "_inherit": "features4",
@@ -977,7 +977,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Miten tämä eroaa muista vastaavista ohjelmistoista?<br>",
-          "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa jokaista katsojaa suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme. Myös hinnoittelu eroaa muista palveluista. Maksat nimittäin <i>vain</i> siitä, mitä käytät!</p><p>Jätä vain yhteystietosi, niin otan sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
+          "text": "<p>Solki.live on all-in-one -paketti sisältäen webinaarit, ryhmäkoulutukset ja kahdenkeskiset kohtaamiset. Voit laskuttaa jokaista katsojaa suoraan ohjelmistossa ja tallentaa livesessiot myöhempää käyttöä varten vaikkapa omaan verkkokauppaasi, jonka tarjoamme. Myös hinnoittelu eroaa muista palveluista. Maksat nimittäin <i>vain</i> siitä, mitä käytät!</p><p>Jätä vain yhteystietosi, niin otamme sinuun yhteyttä. Mitä voit hävitä?</p><p><b>Kokeile 100% riskittömästi</b></p>",
           "button": " <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
         },
         {
