@@ -51,8 +51,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Turvalliset (Valvira) ja helpot videotapaamiset sote-alalle potilaan ja asiakkaan tapaamiseen",
-        "meta_descr": "Asiakas- ja potilastapaamiset turvallisesti verkossa. Lääkärit, terapeutit, kuntoutusohjaajat ja monet muut eri alojen ammattilaiset ovat valinneet solki.liven helpottamaan omaa arkeaan etävastaanottojen ja -tapaamisten avulla.",
+        "title": "Turvalliset (Valvira) ja helpot verkkotapaamiset asiakkaan tapaamiseen",
+        "meta_descr": "Asiakas- ja potilastapaamiset turvallisesti verkossa. Lääkärit, terapeutit, kuntoutusohjaajat ja monet eri alojen ammattilaiset ovat valinneet Soljen helpottamaan omaa arkeaan etävastaanottojen ja -tapaamisten avulla.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -286,7 +286,7 @@
               "width": 600,
               "active": true,
               "link": "https://yle.fi/uutiset/3-10193173",
-              "alt": "",
+              "alt": "Yrittäjä kauhistui terapian pitkiä jonoja - kehitti ohjelmiston jolla terapiapalveluja voidaan jakaa",
               "title": ""
             }
           },
@@ -301,9 +301,8 @@
               "width": 600,
               "active": true,
               "link": "http://goo.gl/TP4afc",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Tarjotaan apua valtakunnallisesti Solki.liven avulla",
+              "title": ""
             }
           },
           "title2": "<p><a href=\"http://goo.gl/TP4afc\" class=\"text-black\">SK: Ideasta kumpusi ilmaista...</a></p>",
@@ -317,9 +316,8 @@
               "width": 600,
               "active": true,
               "link": "https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Terapian tarjoamisen tapa muuttumassa - pitkät jonotukset tarpeettomia",
+              "title": ""
             }
           },
           "title3": "<a href=\"https://www.yrittajat.fi/uutiset/576016-1000-autettua-hyvantekevaisyyskampanja-pyrkii-ravistelemaan-terapian-tarjoamisen\" class=\"text-black\">Yrittäjät: Ravistelee terapian...</a>",
@@ -333,7 +331,7 @@
               "width": 600,
               "active": true,
               "link": "https://www.iltalehti.fi/tyoelama/18c0a4ca-2e60-463b-af2d-6e89caf05962_tb.shtml",
-              "alt": "",
+              "alt": "Työkalu jonka avulla ammattilaiset voivat jakaa palvelujaan maailman eri kolkkiin",
               "title": ""
             }
           },
@@ -348,7 +346,7 @@
               "width": 600,
               "active": true,
               "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
-              "alt": "",
+              "alt": "Solki provides visual support for healthcare - highly secured e-meetings",
               "title": ""
             }
           },
@@ -363,9 +361,8 @@
               "width": 600,
               "active": true,
               "link": "https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Success Story - Ollipekka Kivin - Solki.live - expanding to USA",
+              "title": ""
             }
           },
           "title6": "<a href=\"https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html\" class=\"text-black\">SCORE: Success Story</a>",
@@ -388,7 +385,7 @@
             "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#efefef"
+            "bgColor": "#cccccc"
           },
           "title": "Miksi?",
           "meta": "Mitä hyötyä on käyttää solki.liveä? Miksi sitä kannattaisi käyttää?"
@@ -1409,7 +1406,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Webinaari-toimii-markkinoinnissa-ja-myynnissä",
                   "title": ""
                 }
               },
@@ -1426,7 +1423,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Verkkotapaamiset-personal-trainer-myy-enemmän",
                   "title": ""
                 }
               },
@@ -1443,7 +1440,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Personal-trainer-lisää-uusia-asiakkaita-solki.liven-avulla",
                   "title": ""
                 }
               },
@@ -1460,7 +1457,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Kouluttaja-webinaari-tallenne-verkkokauppa-lisämyynti",
                   "title": ""
                 }
               },
@@ -1477,7 +1474,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Turvalliset verkkotapaamiset terapiaan ja sosiaalityöhön",
                   "title": ""
                 }
               },
@@ -1494,7 +1491,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Valviran hyväksymät verkkotapaamiset julkinen sektori",
                   "title": ""
                 }
               },
@@ -1511,7 +1508,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Terapeutti palvelee helpommin ja laajemmalle alueelle",
                   "title": ""
                 }
               },
@@ -1528,7 +1525,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Kouluttaja hyödyntää verkkokauppaa ja tapaa asiakkaita ajasta ja paikasta riippumatta",
                   "title": ""
                 }
               },
@@ -1545,7 +1542,7 @@
                   "width": 160,
                   "active": true,
                   "link": "",
-                  "alt": "",
+                  "alt": "Lääkäri suosittelee Solki.liveä erilaisiin verkkotapaamisiin ja tilaisuuksiin",
                   "title": ""
                 }
               },
