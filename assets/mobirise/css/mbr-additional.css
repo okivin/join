@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
@@ -422,13 +422,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ffffff;
 }
-#header1-1a .mbr-section-title {
-  font-size: 25px;
-}
-#header1-1a .mbr-section-lead {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 22px;
-}
 #slider-7u H2 {
   font-size: 30px;
 }
@@ -437,6 +430,13 @@ h6,
 }
 #slider-7u SPAN {
   font-size: 20px;
+}
+#header1-1a .mbr-section-title {
+  font-size: 25px;
+}
+#header1-1a .mbr-section-lead {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
 }
 #msg-box2-5e .mbr-section-title {
   color: #fff;

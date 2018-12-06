@@ -59,6 +59,97 @@
       },
       "components": [
         {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "8",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1335.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "\"Solki.live helpottaa parhaimmillaan sekä työntekoa että potilasta, jonka ei tarvitse lähteä mahdollisesti pitkänkin matkan takaa vastaanotolle, jos ohjauksen luonne ei sitä vaadi. Olen tavannut potilaita kahdenkesken, mutta aion järjestää myös online-ryhmiä sekä webinaareja. Asiakaspalvelu on ollut kattavaa ja riittävää.\"<br>Roope Mäkelä, Erikoissairaanhoito, Ravitsemusterapeutti",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "\"Erittäin selkeä ja helppokäyttöinen palvelu, sekä asiakastuki on ollut kattavaa. Solki.live -palvelu voisi toimia hyvin markkinoinnin ja myynnin tukena. Erityisesti asiantuntijapalveluiden tarjoaminen ja markkinoiminen voisi toimia hyvin Solki.live:n avulla. Pidän jatkossakin webinaareja ja tarjoan konsultointipalveluja kahden kesken.\"&nbsp;<br>Elina Koponen, Asiakkuuspäällikkö, Personal Trainer",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x918.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "\"Solki.liven kaltainen työkalu sopisi ehdottomasti alalleni (terveydenhuolto) ja mielestäni käyttömahdollisuudet ovat rajattomat! Asiakaspalvelun ja -tuen laatu on ollut erinomaista ja palvelun käyttö on helppoa sekä selkeää. Suosittelen Solkea myös kollegoilleni esimerkiksi infowebinaarien pitoon, sellaiseen kuin järjestin itsekin \"1000 autettua\" -kampanjassa!\"<br>Marika Kandell, Lääkäri",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "\"Olen järjestänyt solki.liven kautta useita asiakastapaamisia sekä ryhmäkokouksia ja -koulutuksia. Olen pitänyt myös webinaarin, ja käyttö oli tosi helppoa. Palvelu helpottaa ihmisten tapaamista, kun en itse omista autoa ollenkaan. Palvelu on helppokäyttöinen ja selkeä, sekä asiakaspalvelu on ollut nopeaa ja erinomaista. Suosittelen!\"<br>Tiina Salminen, Markkinointipäällikkö",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.8"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-7u",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -96,107 +187,6 @@
           "title": "<span style=\"font-weight: normal;\">Ovatko verkkotapaamiset arkipäivää tai tulevaisuuden suunnitelmissa?<br><br>Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle<br></span><br>",
           "text": "Solki.live on ensimmäinen verkkovastaanotto, <br>jonka käyttäminen on yhtä helppoa kuin <b>ovesta sisään kävely</b>.<br>",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-1b\" data-toolbar=\"-mbrBtnMove\">KOKEILE ILMAISEKSI</a>"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": "8",
-            "slides": [
-              {
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<span style=\"font-weight: normal;\">Ovatko verkkotapaamiset arkipäivää tai tulevaisuuden suunnitelmissa?<br></span><br>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Tarjoa vaihtoehto fyysiselle asiakaskäynnille tai -tilaisuudelle!<br><br>Solki.live on ensimmäinen verkkovastaanotto, jonka käyttö on yhtä helppoa kuin ovesta sisään kävely.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Kokeile ilmaiseksi</a>  "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1335.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "VIDEO SLIDE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "\"Solki.live helpottaa parhaimmillaan sekä työntekoa että potilasta, jonka ei tarvitse lähteä mahdollisesti pitkänkin matkan takaa vastaanotolle, jos ohjauksen luonne ei sitä vaadi. Olen tavannut potilaita kahdenkesken, mutta aion järjestää myös online-ryhmiä sekä webinaareja. Asiakaspalvelu on ollut kattavaa ja riittävää.\"<br>Roope Mäkelä, Erikoissairaanhoito, Ravitsemusterapeutti",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "\"Erittäin selkeä ja helppokäyttöinen palvelu, sekä asiakastuki on ollut kattavaa. Solki.live -palvelu voisi toimia hyvin markkinoinnin ja myynnin tukena. Erityisesti asiantuntijapalveluiden tarjoaminen ja markkinoiminen voisi toimia hyvin Solki.live:n avulla. Pidän jatkossakin webinaareja ja tarjoan konsultointipalveluja kahden kesken.\"&nbsp;<br>Elina Koponen, Asiakkuuspäällikkö, Personal Trainer",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x918.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "\"Solki.liven kaltainen työkalu sopisi ehdottomasti alalleni (terveydenhuolto) ja mielestäni käyttömahdollisuudet ovat rajattomat! Asiakaspalvelun ja -tuen laatu on ollut erinomaista ja palvelun käyttö on helppoa sekä selkeää. Suosittelen Solkea myös kollegoilleni esimerkiksi infowebinaarien pitoon, sellaiseen kuin järjestin itsekin \"1000 autettua\" -kampanjassa!\"<br>Marika Kandell, Lääkäri",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1278.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": false,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "IMAGE SLIDE",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "\"Olen järjestänyt solki.liven kautta useita asiakastapaamisia sekä ryhmäkokouksia ja -koulutuksia. Olen pitänyt myös webinaarin, ja käyttö oli tosi helppoa. Palvelu helpottaa ihmisten tapaamista, kun en itse omista autoa ollenkaan. Palvelu on helppokäyttöinen ja selkeä, sekä asiakaspalvelu on ollut nopeaa ja erinomaista. Suosittelen!\"<br>Tiina Salminen, Markkinointipäällikkö",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-7u",
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            },
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            },
-            "SPAN": {
-              "font-size": "20px"
-            }
-          }
         },
         {
           "_styles": {
