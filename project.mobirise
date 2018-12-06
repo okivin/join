@@ -192,6 +192,9 @@
             "P": {
               "font-family": "'Roboto', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "25px"
             }
           }
         },
