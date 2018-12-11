@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "miten-jarjestaa-webinaari-ja-verkkotapaaminen.html",
+    "currentPage": "easy-secured-online-meetings-sign-up-for-free.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.8.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 284,
+    "uniqCompNum": 286,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -7402,7 +7402,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/5WIq9zwskwA",
+              "src": "https://youtu.be/UIgHflG_l84",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -7421,6 +7421,143 @@
           ],
           "_name": "header6",
           "_anchor": "header6-78"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "title": "Solki.live in the news",
+          "meta": "Solki is a proud engine of the campaign \"1000 helped\"",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-7x"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/score-logo-11-320x240.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://fortworth.score.org/Website%3A%20%20%20https%3A//join.solki.live/english.html",
+              "alt": "success story solki.live is a highly secured video communication platform",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gnf-thumbnail-10-600x377.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "http://www.goodnewsfinland.com/feature/solki-live-gives-visual-support-for-healthcare/",
+              "alt": "Solki.live provides visual support for healthcare",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iltalehti-placeholder-image-5-600x366.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://www.iltalehti.fi/tyoelama/a/18c0a4ca-2e60-463b-af2d-6e89caf05962",
+              "alt": "Solki.live share your services everywhere via secured video",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/7874046-3-600x338.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "https://yle.fi/uutiset/3-10193173",
+              "alt": "So many problems that we could solve with Solki and secured video",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "SCORE success story",
+          "subtitle1": "Solki.live success story",
+          "caption1": "\"Solki.live is a highly secured video communication platform that is used by doctors, therapists, counselors, personal trainers...\"",
+          "title2": "Good news from Finland",
+          "subtitle2": "Solki-visual support for healthcare",
+          "caption2": "\"Finnish company Solki.live offers a secure online channel for professionals to dispense medical advice.\"",
+          "title3": "Iltalehti",
+          "subtitle3": "Solki-services anywhere in the world",
+          "caption3": "[Article in Finnish] \"We're able to provide services anywhere in the world.\" Iltalehti is one of the biggest online medias in Finland.&nbsp;",
+          "title4": "YLE uutiset",
+          "subtitle4": "Solki-solution for many problems",
+          "caption4": "[Article in Finnish] \"Unemployment, burnout, deprsession... So much writing, not enough doing..\" YLE is one of the biggest medias in Finland.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-7w"
         },
         {
           "_styles": {
