@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "easy-secured-online-meetings-sign-up-for-free.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
-    "versionPublish": "4.8.6",
+    "versionPublish": "4.8.10",
     "name": "Virallinen/saken kanssa tehty",
     "theme": {
       "name": "mobirise3",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 286,
+    "uniqCompNum": 290,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -371,6 +371,41 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3d8eb9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lue vielä Lääkäriportaalin artikkeli -&gt;&nbsp;",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/13imDsuWRbm1gx5-vBL55shHduoYGE0mM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">Lue Lääkäriportaalin artikkeli</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-81",
+          "_styles": {
+            "H3": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -635,6 +670,44 @@
           "title": "Miten yritysvalmentaja/kouluttaja tapaa asiakkaitaan ajasta ja paikasta riippumatta?",
           "text": "<p>Lue Anondo Oy:n kertomus - ja miten sinä pystyt samaan - alla olevasta linkistä!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Lue Anondo Oy:n kertomus ja pyydä itsellesi maksuton alkukartoitus (20min)</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1152.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26a69a",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "HUOM!",
+          "text": "<p><b>Solki.liven kautta tekemäsi työ voidaan kirjauttaa tulonhankkimisvähennyksiin verotuksessa!</b> Vahvistettu Suomen vero- ja lakipalvelut Oy:stä 18.12.2018</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-80"
         },
         {
           "_tags": [
@@ -3372,6 +3445,36 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "inverse": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lääkäriportaalin artikkeli -&gt;&nbsp;",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://drive.google.com/file/d/13imDsuWRbm1gx5-vBL55shHduoYGE0mM/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\">Lue Lääkäriportaalin artikkeli</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-7y"
         },
         {
           "_tags": [

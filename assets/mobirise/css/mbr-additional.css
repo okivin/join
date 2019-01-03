@@ -453,6 +453,9 @@ h6,
 #header3-1x .mbr-section-title {
   text-align: center;
 }
+#msg-box1-81 H3 {
+  font-size: 24px;
+}
 #header3-2q .mbr-section-title,
 #header3-2q .mbr-section-subtitle {
   text-align: center;
@@ -484,6 +487,13 @@ h6,
 }
 #msg-box8-3q .lead P {
   color: #000000;
+}
+#msg-box3-80 .mbr-section-title,
+#msg-box3-80 p {
+  color: #000;
+}
+#msg-box3-80 .lead P {
+  font-size: 20px;
 }
 #content1-j P {
   font-family: 'Montserrat', sans-serif;
