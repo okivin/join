@@ -566,7 +566,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
@@ -3338,7 +3338,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_params": {
