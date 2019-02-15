@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.9.3",
     "name": "Virallinen/saken kanssa tehty",
@@ -3357,7 +3357,7 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
+            "overlayColor": "#68b0d6",
             "overlayOpacity": "0.8"
           },
           "title": "Kotimainen Heltti tarjoaa työterveyspalvelujaan etänä Solki.liven kautta",
@@ -3365,7 +3365,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"heltti-etalaakari-ja-psykologi-solki.live.html\" data-toolbar=\"-mbrBtnMove\">Lue Heltti Oy:n haastattelu</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"heltti-etalaakari-ja-psykologi-solki.live.html\" data-toolbar=\"-mbrBtnMove\">Lue Heltti Oy:n haastattelu</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-83"
         },
