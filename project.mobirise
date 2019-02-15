@@ -8836,7 +8836,7 @@
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/helttitausta-1400x589.png",
               "link": "",
-              "alt": "",
+              "alt": "työterveys-etätapaaminen-etälääkäri-etäpsykologi-solki.live",
               "title": ""
             },
             "video": {
@@ -8899,7 +8899,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Miten asiakkaita tavataan ajasta ja paikasta riippumatta</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Yksityisyrittäjä tienaa jo kolmasosan liikevaihdostaan Soljen avulla</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"personal-trainer-myy-enemman-ja-helpommin.html\" data-toolbar=\"-mbrBtnMove\">Miten joogaopettaja/PT voi hyödyntää verkkotapaamisia</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"tapaa-asiakkaat-ajasta-ja-paikasta-riippumatta.html\" data-toolbar=\"-mbrBtnMove\">Miten asiakkaita tavataan ajasta ja paikasta riippumatta</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"yksityis-yrittaja-liikevaihto-kasvaa.html\" data-toolbar=\"-mbrBtnMove\">Yksityisyrittäjä tienaa jo kolmasosan liikevaihdostaan Soljen avulla</a> <a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"personal-trainer-myy-enemman-ja-helpommin.html\" data-toolbar=\"-mbrBtnMove\">Miten joogaopettaja/PT voi hyödyntää verkkotapaamisia</a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-70"
         },
