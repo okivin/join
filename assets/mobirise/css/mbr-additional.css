@@ -467,6 +467,13 @@ h6,
   background-color: #ffffff;
   border-color: #ffffff;
 }
+#msg-box3-82 .mbr-section-title,
+#msg-box3-82 p {
+  color: #000;
+}
+#msg-box3-82 .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-2m .mbr-section-title,
 #msg-box8-2m p {
   color: #fff;
@@ -898,6 +905,13 @@ h6,
 #features7-3y .iconbox {
   background-color: #ffffff;
   border-color: #ffffff;
+}
+#msg-box3-83 .mbr-section-title,
+#msg-box3-83 p {
+  color: #000;
+}
+#msg-box3-83 .mbr-section-title {
+  color: #ffffff;
 }
 #header3-41 .mbr-section-title,
 #header3-41 .mbr-section-subtitle {
