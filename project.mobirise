@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "solki-sote-alalle-eta-laakari-terapia.html",
+    "currentPage": "index.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.9.3",
     "name": "Virallinen/saken kanssa tehty",
@@ -23,13 +23,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#222222",
         "#28262b",
         "#68b0d6",
         "#424648",
         "#232323",
         "#26a69a",
-        "#f2f2f2",
-        "#2e2e2e"
+        "#f2f2f2"
       ]
     },
     "scrollAnimation": "true",
@@ -566,7 +566,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -3338,7 +3338,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_params": {
