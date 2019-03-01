@@ -484,6 +484,10 @@ h6,
 #msg-box3-82 .mbr-section-title {
   color: #ffffff;
 }
+#msg-box3-8d .mbr-section-title,
+#msg-box3-8d p {
+  color: #000;
+}
 #msg-box8-2m .mbr-section-title,
 #msg-box8-2m p {
   color: #fff;
@@ -1834,5 +1838,108 @@ h6,
   color: #ffffff!important;
 }
 #contacts1-86 STRONG {
+  color: #ffffff;
+}
+
+#menu-2e .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2e .navbar-caption {
+  color: #ffffff;
+}
+#menu-2e .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2e .close-icon::before,
+#menu-2e .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2e .link,
+#menu-2e .dropdown-item {
+  color: #ffffff;
+}
+#menu-2e .link {
+  font-size: 0.9rem;
+}
+#menu-2e .dropdown-item,
+#menu-2e .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-2e .link:hover,
+#menu-2e .dropdown-item:hover,
+#menu-2e .link:focus,
+#menu-2e .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-2e .link[aria-expanded="true"],
+#menu-2e .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-2e .nav-dropdown-sm .link:focus,
+#menu-2e .nav-dropdown-sm .link:hover,
+#menu-2e .nav-dropdown-sm .dropdown-item:focus,
+#menu-2e .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-2e .navbar,
+#menu-2e .nav-dropdown-sm,
+#menu-2e .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2e .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-2e .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2e .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2e .bg-color.transparent.opened .link:hover,
+#menu-2e .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-2e .link[aria-expanded="true"],
+#menu-2e .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#msg-box8-2d .mbr-section-title,
+#msg-box8-2d p {
+  color: #fff;
+}
+#msg-box8-2d .lead {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box8-2d .lead P {
+  font-size: 20px;
+  color: #ffffff;
+}
+#msg-box8-2d .mbr-section-title {
+  color: #ffffff;
+}
+#msg-box5-2k P {
+  text-align: left;
+}
+#msg-box3-70 .mbr-section-title,
+#msg-box3-70 p {
+  color: #000;
+}
+#form1-28 .form-control-label {
+  color: #232323;
+}
+#msg-box1-3u H2 {
+  color: #000000;
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+}
+#header3-2g .mbr-section-title,
+#header3-2g .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box3-2h .mbr-section-title,
+#msg-box3-2h p {
+  color: #000;
+}
+#contacts1-23 STRONG {
   color: #ffffff;
 }
