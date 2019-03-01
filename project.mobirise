@@ -232,6 +232,12 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".lead P": {
+              "color": "#000000"
             }
           },
           "_params": {
@@ -250,8 +256,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
           },
           "title": "Solki.live ja Osuuspankki yhteistyöhön",
           "text": "<p>Solki.live on #OP-Kevytyrittäjien työkaluna palvelujen myyntiin ajasta ja paikasta riippumatta</p>",
