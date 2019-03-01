@@ -260,7 +260,7 @@
             "overlayOpacity": "0.5"
           },
           "title": "Solki.live ja Osuuspankki yhteistyöhön",
-          "text": "<p>Solki.live on #OP-Kevytyrittäjien työkaluna palvelujen myyntiin ajasta ja paikasta riippumatta</p>",
+          "text": "<p><b>Solki.live on #OP-Kevytyrittäjien työkaluna palvelujen myyntiin ajasta ja paikasta riippumatta</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -289,7 +289,7 @@
             "bgColor": "#efefef"
           },
           "title": "Solki.live mediassa:",
-          "meta": "Tiesitkö, Solki.live on myös mukana 1000 autettua -hyväntekeväisyyskampanjassa!"
+          "meta": "Tiesitkö, Solki.live on pääyhteistyökumppani 1000 autettua -hyväntekeväisyyskampanjassa!"
         },
         {
           "_tags": [
