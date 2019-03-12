@@ -10048,7 +10048,7 @@
           },
           "title": "Ilmoittaudu maksuttomaan \"Webinaarit ja verkkotapaamiset terveysalalla\"-webinaariin torstaina 21.3. klo 18!",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Ilmoittatumiseen</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"ilmoittaudu.html#form2-8f\" data-toolbar=\"-mbrBtnMove\">Ilmoittatumiseen</a>",
           "_tags": [
             "Theme"
           ],
