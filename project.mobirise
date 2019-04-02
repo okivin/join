@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "eezy-kevytyrittajille.html",
+    "currentPage": "ilmoittaudu.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.9.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 332,
+    "uniqCompNum": 333,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -10046,9 +10046,9 @@
               "size": 250
             }
           },
-          "title": "Ilmoittaudu maksuttomaan \"Webinaarit ja verkkotapaamiset terveysalalla\"-webinaariin torstaina 28.3. klo 18!",
+          "title": "Ilmoittaudu maksuttomaan \"Webinaarit ja verkkotapaamiset terveysalalla\"-webinaariin tiistaina 9.4. klo 18!",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"ilmoittaudu.html#form2-8f\" data-toolbar=\"-mbrBtnMove\">Ilmoittatumiseen</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"ilmoittaudu.html#form2-98\" data-toolbar=\"-mbrBtnMove\">Ilmoittatumiseen</a>",
           "_tags": [
             "Theme"
           ],
@@ -10059,6 +10059,50 @@
               "font-size": "36px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Ilmoittaudu maksuttomaan webinaariin!",
+          "subtitle": "Jätä sähköpostiosoitteesi alle, niin lähetän sinulle webinaarin osallistumislinkin.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ilmoittaudu</a>",
+          "form": {
+            "action": "ollipekka.kivin@gmail.com",
+            "alerts": {
+              "success": "Kiitos ilmoittautumisesta! Lähetän sinulle webinaarin osallistumislinkin lähiaikoina."
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Sähköpostiosoitteeni..."
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form2",
+          "_anchor": "form2-98"
         },
         {
           "_params": {
@@ -10353,7 +10397,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Ilmoittaudu maksuttomaan webinaariin torstaina 28.3. klo 18!",
+          "title": "Ilmoittaudu maksuttomaan webinaariin tiistaina 9.4. klo 18!",
           "subtitle": "Jätä sähköpostiosoitteesi alle, niin lähetän webinaarin osallistumislinkin sinulle.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ilmoittaudu!</a>",
           "form": {
