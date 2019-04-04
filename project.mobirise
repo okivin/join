@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ilmoittaudu.html",
+    "currentPage": "miten-jarjestaa-webinaari-ja-verkkotapaaminen.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.9.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 333,
+    "uniqCompNum": 334,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -6763,6 +6763,26 @@
           "_anchor": "content1-6u",
           "_styles": {
             "P": {
+              "font-size": "20px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p><b style=\"font-style: normal;\">Käytän itse tämänkaltaista viestiä, kun kutsun osallistujan videopuheluun tai webinaariin. Voit halutessasi käyttää samaa viestiä:</b></p><p><b style=\"font-style: normal;\">\"Pidetään videopuhelu Solki.live-ohjelmiston välityksellä. Alla muutama ohje sekä osallistumislinkki:</b></p><p><b style=\"font-style: normal;\">-Kyseessä on videopuhelu, joten varmistathan sujuvan internet-yhteyden (voit sulkea laitteesi kaikki taustaohjelmat) sekä kameran ja mikrofonin toimivuuden.</b></p><p><b style=\"font-style: normal;\">-Avaathan linkin mieluiten Google Chrome-selaimella (myös Firefox käy)</b></p><p><b style=\"font-style: normal;\">-Avaathan linkin klo xx:xx niin olen käynnistänyt videopuhelun ja pääset osallistumaan siihen</b></p><p><span style=\"font-style: normal;\"><b>-Jos et pikapuoliin siirry videopuheluun, voit klikata osallistumislinkkiä uudelleen</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-weight: bold; font-style: normal;\">Tästä osallistumislinkistä mukaan Chromella klo xx:xx : </span>solki-osallistumislinkki</p><p><span style=\"font-weight: bold; font-style: normal;\"><br></span></p><p><span style=\"font-weight: bold; font-style: normal;\">Jos muutoksia tai kysymyksiä tulee, voit soitella/viestitellä minulle p. 123-456 7890\"</span></p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-99",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "20px"
             }
           }
