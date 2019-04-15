@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "miten-jarjestaa-webinaari-ja-verkkotapaaminen.html",
+    "currentPage": "eezylaiset.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.9.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -33,7 +33,7 @@
       ]
     },
     "scrollAnimation": "true",
-    "uniqCompNum": 334,
+    "uniqCompNum": 335,
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128-28.png",
     "noImageResize": "",
     "path": "@PROJECT_PATH@",
@@ -10483,10 +10483,10 @@
         }
       ]
     },
-    "eezy-kevytyrittajille.html": {
+    "eezylaiset.html": {
       "settings": {
-        "meta_descr": "Tervetuloa Solki.liveen, EEZY-kevytyrittäjä! Tältä sivulta löydät kattavasti tietoa hinnastoon, käyttöönottoon ja moneen muuhun asiaan liittyen.",
-        "title": "Ohjeita EEZY-kevytyrittäjille",
+        "meta_descr": "Tervetuloa Solki.liveen, Eezyläinen! Tältä sivulta löydät kattavasti tietoa hinnastoon, käyttöönottoon ja moneen muuhun asiaan liittyen.",
+        "title": "Ohjesivusto Eezyläisille",
         "order": 1
       },
       "components": [
@@ -10612,8 +10612,8 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "Hei, EEZY-kevytyrittäjä!",
-          "text": "Kuten olet ehkä jo huomannut, EEZY ja Solki.live ovat aloittaneet yhteistyön. EEZY-kevytyrittäjille tarjotaan Solki.liven monipuolisia työkaluja omien palvelujen myyntiin digitaalisesti. Tällä sivulla kerron sinulle kaiken oleellisen, mitä sinun tulee tietää Solki.livestä.&nbsp;",
+          "title": "Hei, Eezyläinen!",
+          "text": "Kuten olet ehkä jo huomannut, EEZY ja Solki.live ovat aloittaneet yhteistyön. Eezyläisille tarjotaan Solki.liven monipuolisia työkaluja omien palvelujen myyntiin digitaalisesti. Tällä sivulla kerron sinulle kaiken oleellisen, mitä sinun tulee tietää Solki.livestä.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -10647,7 +10647,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Solki.live on monipuolinen työkalu asiakkaidesi tapaamiseen digitaalisesti verkossa. Solki.liven avulla voit järjestää turvallisia videopuheluja, ryhmäpuheluja ja webinaareja asiakkaillesi. Voit myös hyödyntää Solki.liven tarjoamaa verkkokauppaa, jossa voit myydä tallennettuja videopuheluja, webinaareja tai muuta videosisältöä.&nbsp;</p><p><br></p><p>Kun toimit yrittäjänä, tapaat varmasti asiakkaita ja keskustelet heidän kanssaan - Solki.live on vaihtoehto asiakastapaamisten hoitamiseen digitaalisesti. Siitä syystä monet eri alojen ammattilaiset ovatkin valinneet Solki.liven työkalukseen ja kehittäneet jopa uusia liiketoimintamuotoja. </p><p><br></p><p>Lue lisää tältä sivulta! Alla listattu muutamia Soljen ominaisuuksia.</p>",
+          "text": "<p>Solki.live on monipuolinen työkalu asiakkaidesi tapaamiseen digitaalisesti verkossa. Solki.liven avulla voit järjestää turvallisia videopuheluja, ryhmäpuheluja ja webinaareja asiakkaillesi. Voit myös hyödyntää Solki.liven tarjoamaa verkkokauppaa, jossa voit myydä tallennettuja videopuheluja, webinaareja tai muuta videosisältöä.&nbsp;</p><p><br></p><p>Kun toimit kevytyrittäjänä, tapaat varmasti asiakkaita ja keskustelet heidän kanssaan - Solki.live on vaihtoehto asiakastapaamisten hoitamiseen digitaalisesti. Siitä syystä monet eri alojen ammattilaiset ovatkin valinneet Solki.liven työkalukseen ja kehittäneet jopa uusia liiketoimintamuotoja. </p><p><br></p><p>Lue lisää tältä sivulta! Alla listattu muutamia Soljen ominaisuuksia.</p>",
           "_tags": [
             "Theme"
           ],
@@ -10766,7 +10766,7 @@
           "caption3": "Monipuolisten videopuhelujen (kahden kesken, ryhmässä tai webinaarin välityksellä) lisäksi voit myydä digitaalista sisältöä tarjoamassamme verkkokaupassa!",
           "title4": "Reilu hinnoittelu",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "EEZY-kevytyrittäjänä käytössäsi on mahtavat edut ja reilu hinnoittelu! Koko hinnasto on esitetty alempana tällä sivulla. <b>Laskutus todellisen käytön mukaan! Jos et käytä, et maksa.</b>",
+          "caption4": "Eezyläisenä käytössäsi on mahtavat edut ja reilu hinnoittelu! Koko hinnasto on esitetty alempana tällä sivulla. <b>Laskutus todellisen käytön mukaan! Jos et käytä, et maksa.</b>",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -11232,7 +11232,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/eezy-hinnasto-1400x612.png",
+              "src": "@PROJECT_PATH@/assets/images/eezy-hinnasto-1-1400x612.png",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -11376,6 +11376,26 @@
             }
           },
           "_anchor": "content1-8z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef"
+          },
+          "text": "<blockquote><p><b style=\"font-style: normal;\">Käytän itse tämänkaltaista viestiä, kun kutsun osallistujan videopuheluun tai webinaariin. Voit halutessasi käyttää samaa viestiä:</b></p><p><b style=\"font-style: normal;\">\"Pidetään videopuhelu Solki.live-ohjelmiston välityksellä. Alla muutama ohje sekä osallistumislinkki:</b></p><p><b style=\"font-style: normal;\">-Kyseessä on videopuhelu, joten varmistathan sujuvan internet-yhteyden (voit sulkea laitteesi kaikki taustaohjelmat) sekä kameran ja mikrofonin toimivuuden.</b></p><p><b style=\"font-style: normal;\">-Avaathan linkin mieluiten Google Chrome-selaimella (myös Firefox käy)</b></p><p><b style=\"font-style: normal;\">-Avaathan linkin klo xx:xx niin olen käynnistänyt videopuhelun ja pääset osallistumaan siihen</b></p><p><span style=\"font-style: normal;\"><b>-Jos et pikapuoliin siirry videopuheluun, voit klikata osallistumislinkkiä uudelleen</b></span></p><p><span style=\"font-style: normal;\"><b><br></b></span></p><p><span style=\"font-weight: bold; font-style: normal;\">Tästä osallistumislinkistä mukaan Chromella klo xx:xx : </span>solki-osallistumislinkki</p><p><span style=\"font-weight: bold; font-style: normal;\"><br></span></p><p><span style=\"font-weight: bold; font-style: normal;\">Jos muutoksia tai kysymyksiä tulee, voit soitella/viestitellä minulle p. 123-456 7890\"</span></p><p><br></p></blockquote>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content2-9a"
         },
         {
           "_styles": {

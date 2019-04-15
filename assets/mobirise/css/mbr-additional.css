@@ -1963,6 +1963,7 @@ h6,
 #contacts1-86 STRONG {
   color: #ffffff;
 }
+
 #menu-8h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2096,6 +2097,10 @@ h6,
   font-size: 25px;
 }
 #content1-8z P {
+  font-size: 20px;
+}
+#content2-9a P {
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
 }
 #header3-90 .mbr-section-title,
