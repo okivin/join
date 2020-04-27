@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "eezy-kevytyrittajille.html",
     "versionFirst": "3.5.2",
     "versionPublish": "4.10.6",
     "name": "Virallinen/saken kanssa tehty",
@@ -11256,7 +11256,7 @@
           ],
           "_name": "header3",
           "_anchor": "header3-97",
-          "title": "Alla koko hinnasto. Laskutus tapahtuu aina seuraavan kuukauden alussa. Laskutus vain toteutuneen käytön mukaan!&nbsp;",
+          "title": "Alla koko hinnasto. Laskutus tapahtuu aina seuraavan kuukauden alussa. Laskutus vain toteutuneen käytön mukaan! <span style=\"font-weight: normal;\"><i>Transaktiomaksu tapahtuu niissä tilanteissa, jos laskutat osallistujaa osallistumisesta esimerkiksi webinaariisi tai myyt materiaalia verkkokaupassa. Tilitykset maksetaan ensin EEZYlle, josta EEZY tilittää ne sinulle.</i></span><br>",
           "_params": {
             "showMeta": false,
             "paddingTop": 1,
